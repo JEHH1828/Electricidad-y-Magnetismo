@@ -1,0 +1,131 @@
+\documentclass[14pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx,subfig}
+\graphicspath{{./Fotos/}}
+
+
+% Geometría
+\usepackage{geometry}
+\geometry{
+	left=25mm,
+	right=25mm,
+	top=30mm,
+	bottom=30mm,
+	headheight = 35 mm
+} 
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\cfoot{}
+\usepackage{lipsum}
+
+% Texto
+\renewcommand*\familydefault{\sfdefault} 
+
+
+\renewcommand{\theenumi}{\Roman{enumi}}
+\begin{document}
+	%Cabeceras
+	\rhead{La Electrostática}
+	\lhead{}
+	%Portada
+	\begin{titlepage}
+		\newgeometry{
+			left=25mm,
+			right=25mm,
+			top=5mm,
+			bottom=30mm,
+			headheight = 0 mm
+		}
+		\begin{figure}[t]
+			\subfloat{\includegraphics[width=0.22\textwidth]{Logo_IPN}}
+			\hspace{0.6\textwidth}
+			\subfloat{\includegraphics[width=0.22\textwidth]{LogoEsime}}
+		\end{figure}
+		\centering
+		{\bfseries\Huge Instituto Politécnico Nacional \par}
+		\vspace{1cm}
+		{\scshape\Large Ingeniería en Comunicaciones y Electrónica \par}
+		\vspace{0.3cm}
+		{\scshape\Large Lab. de Electricidad y Magnetismo  \par}
+		\vspace{1cm}
+		{\scshape\Huge ¿Toques? \par}
+		\vspace{1cm}
+		{\itshape\Large La Electrostática\par}
+		{\Large 2CM13\par}
+		\vfill
+		{\Large Autores: \par}
+		{\Large José Emilio Hernández Huerta \par}
+		{\Large Nataly \par}
+		{\Large Daniela Elizabeth Pérez Vargas \par}
+		{\Large Jesús \par}
+		{\Large Uriel Grimaldi Díaz  \par}
+		\vfill
+		{\Large Abril 2023 \par}
+	\end{titlepage}
+	%Indice
+	 \tableofcontents
+	 
+	\newpage
+	%Inicia el reporte
+	\section{Resumen}
+	\section{Objetivos} 
+	\subsection{Generales}
+	\subsection{Particulares}
+	\subsection{Introducción}
+	Los humanos siempre hemos visto como la electricidad de alguna u otra forma ya sea con fenómenos meteorológicos como son los rayos o pequeñas chispas que saltan entre nuestras cobijas, inclusivamente en nuestros cuerpos desde las descargas que produce nuestro cerebro para controlar el cuerpo y las descargas de estática que experimentamos cuando nos cargamos eléctricamente. Y para poder comprender todos estos fenómenos y que es la electrostática tenemos que definir algunos conceptos importantes así como sus diferentes formulas y características. 
+	\section {Marco Teórico}
+	  	
+	\subsection{Definición}
+	Empezando con lo más simple, la electrostática es la parte de la física que estudia la electricidad en la materia y los
+	fenómenos producidos por cargas eléctricas en reposo.[1]
+	La electrostática describe los fenómenos que tienen lugar en sistemas donde distribuciones de carga eléctrica mantienen su localización invariante en el tiempo. En
+	otras palabras, los cuerpos cargados deben permanecer en reposo. Aún más, cada porción de carga debe permanecer en reposo dentro del cuerpo cargado.[4]
+	\subsection{Carga Eléctrica}
+	Desde la antigua Grecia, los filósofos de la época ya conocían la existencia del ámbar y que al frotarlo este atraía trocitos de ámbar
+	La carga eléctrica es una magnitud fundamental de la física, responsable de la interacción electromagnética.
+	1831
+	1879 Se introducen los conceptos de carga eléctrica, fuerza
+	electromagnética, campo, corriente, energía potencial electrostática, etc
+	James Clerk Maxwell puso las ideas de Faraday en lo que se conoce como
+	las ecuaciones de Maxwell
+	
+	\subsection{Ley de Coulomb}
+	Esta ley fue creada por Charles Coulomb (1736-1806) cuando midió las magnitudes de las fuerzas eléctricas entre objetos de carga. Cada carga puntual ejerce una fuerza sobre la otra, la cual esta dirigida a lo largo de la linea entre las cargas ($r.$) y posee igual magnitud. [2]\\
+	\begin{math}
+		 \vec{F} = k_{e} \frac{q_{1}q_{2}}{r{2^2}} \\  
+		 k = 8.99*10^9 \frac{Nm^2}{C^2} \\
+		 \epsilon_{0} = 8.55*10^-12 \frac{C^2}{Nm^2} \\
+		 k = \frac{1}{4 \pi \epsilon_{0}} \\
+	\end{math}
+	
+		\subsection{Propiedades}
+		• La carga eléctrica se conserva \\
+		• En un átomo neutro, las cargas 
+		positiva y negativa tienen la misma
+		magnitud \\
+		• La carga esta cuantizada y su
+		unidad fundamental es
+		$e = 1.6*10^{-19}C$ \\
+		• En el sistema SI la unidad de
+		carga es el Coulomb \\
+	\subsection{Tipos de Materiales}
+	En el mundo en que vivimos los materiales tienen diferentes clasificaciones así dependiendo de sus propiedades, y en el este caso en particular hablaremos de su capacidad para conducir o transferir la carga eléctrica clasificándolos en aislantes, conductores y semiconductores 
+	\subsubsection{Aislantes}
+	Los electrones están ligados a los átomos por lo que la transferencias de carga es nula. Algunos ejemplos son el caucho, la madera, algunos plásticos, etc. 
+	\subsubsection{Conductores}
+	Los electrones son libres de moverse por el material. Ejemplos de estos son los metales, como el cobre, oro, aluminio, etc.
+	\subsubsection{Semiconductores}
+	Los semiconductores son un tipo especial de materiales debido a que
+	presentan la característica de que se pueden comportar como conductores
+	o como aislantes, dependiendo de las condiciones en que se utilicen. Por ejemplo el Silicio, Germanio, Azufre, Indio, etc. 
+	\newpage
+	\begin{thebibliography}{0}
+		\bibitem{HHS}Grupo Educacional Heinrich:
+		New Heinrich High School
+		\bibitem{Carga}2017 Departamento de Física
+		Universidad de Sonora
+		\bibitem{no me acuerdo}Electrostatica Universidad Nacional de Rosario 
+	\end{thebibliography}
+\end{document}

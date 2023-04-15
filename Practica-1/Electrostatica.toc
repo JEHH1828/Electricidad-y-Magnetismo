@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Resumen}{2}{}%
+\contentsline {section}{\numberline {2}Objetivos}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Generales}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Particulares}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Introducción}{2}{}%
+\contentsline {section}{\numberline {3}Marco Teórico}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Definición}{2}{}%
+\contentsline {subsection}{\numberline {3.2}Carga Eléctrica}{2}{}%
+\contentsline {subsection}{\numberline {3.3}Ley de Coulomb}{2}{}%
+\contentsline {subsection}{\numberline {3.4}Propiedades}{2}{}%
+\contentsline {subsection}{\numberline {3.5}Tipos de Materiales}{3}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}Aislantes}{3}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}Conductores}{3}{}%
+\contentsline {subsubsection}{\numberline {3.5.3}Semiconductores}{3}{}%
