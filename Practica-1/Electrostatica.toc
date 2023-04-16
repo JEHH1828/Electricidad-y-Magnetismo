@@ -13,3 +13,15 @@
 \contentsline {subsubsection}{\numberline {3.5.1}Aislantes}{3}{}%
 \contentsline {subsubsection}{\numberline {3.5.2}Conductores}{3}{}%
 \contentsline {subsubsection}{\numberline {3.5.3}Semiconductores}{3}{}%
+\contentsline {section}{\numberline {4}Descripción de materiales}{3}{}%
+\contentsline {section}{\numberline {5}Desarrollo Experimental}{4}{}%
+\contentsline {section}{\numberline {6}Análisis y resultados}{5}{}%
+\contentsline {subsection}{\numberline {6.1}Observaciones de los experimentos II y III}{8}{}%
+\contentsline {section}{\numberline {7}Experimento IV.}{9}{}%
+\contentsline {subsection}{\numberline {7.1}Lenteja y arillo.}{10}{}%
+\contentsline {subsection}{\numberline {7.2}Dos cargas puntuales de diferente signo.}{13}{}%
+\contentsline {subsection}{\numberline {7.3}Dos cargas puntuales del mismo signo.}{15}{}%
+\contentsline {subsection}{\numberline {7.4}Dos placas paralelas cargadas de diferente signo.}{15}{}%
+\contentsline {subsection}{\numberline {7.5}Dos arillos circulares cargados con diferente carga}{16}{}%
+\contentsline {section}{\numberline {8}Conclusión}{17}{}%
+\contentsline {subsection}{\numberline {8.1}Pérez Vargas Daniela Elizabeth}{17}{}%

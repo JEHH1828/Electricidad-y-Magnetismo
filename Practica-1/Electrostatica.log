@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.21)  10 APR 2023 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.16)  16 APR 2023 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"e:/Electricidad y Magnetismo/Practica-1/Electrostatica.tex"
-(e:/Electricidad y Magnetismo/Practica-1/Electrostatica.tex
+**d:/WorkSpace/Electricidad-y-Magnetismo/Practica-1/Electrostatica.tex
+(d:/WorkSpace/Electricidad-y-Magnetismo/Practica-1/Electrostatica.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-07-04> (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2022-09-28> (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -22,27 +22,27 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/06/26 3.77 The Babel package
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/10/04 3.81 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen139
 \l@unhyphenated=\language79
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks18
 \es@quotdepth=\count195
@@ -50,41 +50,43 @@ Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-)) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
+)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen140
+\stockheight=\dimen141
 ))
-\Gin@req@height=\dimen140
-\Gin@req@width=\dimen141
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
-\caption@tempdima=\dimen142
-\captionmargin=\dimen143
-\caption@leftmargin=\dimen144
-\caption@rightmargin=\dimen145
-\caption@width=\dimen146
-\caption@indent=\dimen147
-\caption@parindent=\dimen148
-\caption@hangindent=\dimen149
+\caption@tempdima=\dimen144
+\captionmargin=\dimen145
+\caption@leftmargin=\dimen146
+\caption@rightmargin=\dimen147
+\caption@width=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count196
@@ -92,7 +94,7 @@ Package caption Info: Standard document class detected.
 )
 \c@KVtest=\count198
 \sf@farskip=\skip49
-\sf@captopadj=\dimen150
+\sf@captopadj=\dimen152
 \sf@capskip=\skip50
 \sf@nearskip=\skip51
 \c@subfigure=\count199
@@ -103,26 +105,26 @@ Package caption Info: Standard document class detected.
 \c@lotdepth=\count270
 \sf@top=\skip52
 \sf@bottom=\skip53
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count271
 \Gm@cntv=\count272
 \c@Gm@tempcnt=\count273
-\Gm@bindingoffset=\dimen151
-\Gm@wd@mp=\dimen152
-\Gm@odd@mp=\dimen153
-\Gm@even@mp=\dimen154
-\Gm@layoutwidth=\dimen155
-\Gm@layoutheight=\dimen156
-\Gm@layouthoffset=\dimen157
-\Gm@layoutvoffset=\dimen158
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks20
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip54
 \f@nch@O@elh=\skip55
@@ -133,10 +135,10 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip60
 \f@nch@O@olf=\skip61
 \f@nch@O@orf=\skip62
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-07-04 L3 programming layer (loader) 
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box51
 ))
@@ -146,9 +148,9 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count275
 \l__lipsum_a_int=\count276
 \l__lipsum_b_int=\count277
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 28.
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
@@ -177,23 +179,23 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count278
-\scratchdimen=\dimen159
+\scratchdimen=\dimen161
 \scratchbox=\box52
 \nofMPsegments=\count279
 \nofMParguments=\count280
 \everyMPshowfont=\toks21
 \MPscratchCnt=\count281
-\MPscratchDim=\dimen160
+\MPscratchDim=\dimen162
 \MPnumerator=\count282
 \makeMPintoPDFobject=\count283
 \everyMPtoPDFconversion=\toks22
-) (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -313,29 +315,286 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--102
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 104.
-(D:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
+(C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 Underfull \hbox (badness 10000) in paragraph at lines 104--113
 
  []
 
-[2] [3] [4] (Electrostatica.aux
+[2]
+<./Fotos//Pendulo.jpeg, id=33, 867.24pt x 1156.32pt>
+File: ./Fotos//Pendulo.jpeg Graphic file (type jpg)
+<use ./Fotos//Pendulo.jpeg>
+Package pdftex.def Info: ./Fotos//Pendulo.jpeg  used on input line 127.
+(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+<./Fotos//Cables.jpeg, id=34, 867.24pt x 1156.32pt>
+File: ./Fotos//Cables.jpeg Graphic file (type jpg)
+<use ./Fotos//Cables.jpeg>
+Package pdftex.def Info: ./Fotos//Cables.jpeg  used on input line 131.
+(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+<./Fotos//Soporte.jpeg, id=35, 1156.32pt x 867.24pt>
+File: ./Fotos//Soporte.jpeg Graphic file (type jpg)
+<use ./Fotos//Soporte.jpeg>
+Package pdftex.def Info: ./Fotos//Soporte.jpeg  used on input line 135.
+(pdftex.def)             Requested size: 47.206pt x 35.39827pt.
+<./Fotos//Barra de metal.jpeg, id=36, 867.24pt x 1156.32pt>
+File: ./Fotos//Barra de metal.jpeg Graphic file (type jpg)
+<use ./Fotos//Barra de metal.jpeg>
+Package pdftex.def Info: ./Fotos//Barra de metal.jpeg  used on input line 139.
+(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+<./Fotos//Jumper.jpeg, id=37, 867.24pt x 1156.32pt>
+File: ./Fotos//Jumper.jpeg Graphic file (type jpg)
+<use ./Fotos//Jumper.jpeg>
+Package pdftex.def Info: ./Fotos//Jumper.jpeg  used on input line 143.
+(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+ [3 <./Fotos//Pendulo.jpeg> <./Fotos//Cables.jpeg> <./Fotos//Soporte.jpeg> <./Fotos//Barra de metal.jpeg>]
+<./Fotos//Barra de poliestireno.jpeg, id=41, 867.24pt x 1156.32pt>
+File: ./Fotos//Barra de poliestireno.jpeg Graphic file (type jpg)
+<use ./Fotos//Barra de poliestireno.jpeg>
+Package pdftex.def Info: ./Fotos//Barra de poliestireno.jpeg  used on input line 147.
+(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+<./Fotos//Electrodos.jpeg, id=42, 867.24pt x 1156.32pt>
+File: ./Fotos//Electrodos.jpeg Graphic file (type jpg)
+<use ./Fotos//Electrodos.jpeg>
+Package pdftex.def Info: ./Fotos//Electrodos.jpeg  used on input line 151.
+(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+<./Fotos//Cuba.jpeg, id=43, 867.24pt x 1156.32pt>
+File: ./Fotos//Cuba.jpeg Graphic file (type jpg)
+<use ./Fotos//Cuba.jpeg>
+Package pdftex.def Info: ./Fotos//Cuba.jpeg  used on input line 155.
+(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+<./Fotos//Barra de vidrio.jpeg, id=44, 867.24pt x 1156.32pt>
+File: ./Fotos//Barra de vidrio.jpeg Graphic file (type jpg)
+<use ./Fotos//Barra de vidrio.jpeg>
+Package pdftex.def Info: ./Fotos//Barra de vidrio.jpeg  used on input line 159.
+(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+ [4 <./Fotos//Jumper.jpeg> <./Fotos//Barra de poliestireno.jpeg> <./Fotos//Electrodos.jpeg> <./Fotos//Cuba.jpeg> <./Fotos//Barra de vidrio.jpeg>]
+<./Fotos//P2.jpg, id=48, 1204.5pt x 1606.0pt>
+File: ./Fotos//P2.jpg Graphic file (type jpg)
+<use ./Fotos//P2.jpg>
+Package pdftex.def Info: ./Fotos//P2.jpg  used on input line 209.
+(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
+<./Fotos//P1.jpg, id=49, 1606.0pt x 1204.5pt>
+File: ./Fotos//P1.jpg Graphic file (type jpg)
+<use ./Fotos//P1.jpg>
+Package pdftex.def Info: ./Fotos//P1.jpg  used on input line 210.
+(pdftex.def)             Requested size: 144.53377pt x 108.40031pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Fotos//P3.jpg, id=50, 730.73pt x 1284.8pt>
+File: ./Fotos//P3.jpg Graphic file (type jpg)
+<use ./Fotos//P3.jpg>
+Package pdftex.def Info: ./Fotos//P3.jpg  used on input line 222.
+(pdftex.def)             Requested size: 51.15633pt x 89.94519pt.
+<./Fotos//P4.jpg, id=51, 731.73375pt x 1284.8pt>
+File: ./Fotos//P4.jpg Graphic file (type jpg)
+<use ./Fotos//P4.jpg>
+Package pdftex.def Info: ./Fotos//P4.jpg  used on input line 223.
+(pdftex.def)             Requested size: 51.2266pt x 89.94519pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5]
+<./Fotos//P5.jpg, id=55, 1606.0pt x 1204.5pt>
+File: ./Fotos//P5.jpg Graphic file (type jpg)
+<use ./Fotos//P5.jpg>
+Package pdftex.def Info: ./Fotos//P5.jpg  used on input line 233.
+(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
+<./Fotos//P6.jpg, id=56, 1606.0pt x 1204.5pt>
+File: ./Fotos//P6.jpg Graphic file (type jpg)
+<use ./Fotos//P6.jpg>
+Package pdftex.def Info: ./Fotos//P6.jpg  used on input line 234.
+(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
+ [6 <./Fotos//P2.jpg> <./Fotos//P1.jpg> <./Fotos//P3.jpg> <./Fotos//P4.jpg> <./Fotos//P5.jpg> <./Fotos//P6.jpg>]
+<./Fotos//P7.jpg, id=61, 1204.5pt x 1606.0pt>
+File: ./Fotos//P7.jpg Graphic file (type jpg)
+<use ./Fotos//P7.jpg>
+Package pdftex.def Info: ./Fotos//P7.jpg  used on input line 246.
+(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
+<./Fotos//P8.jpg, id=62, 1204.5pt x 1606.0pt>
+File: ./Fotos//P8.jpg Graphic file (type jpg)
+<use ./Fotos//P8.jpg>
+Package pdftex.def Info: ./Fotos//P8.jpg  used on input line 256.
+(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
+<./Fotos//P10.jpg, id=63, 755.82375pt x 310.15875pt>
+File: ./Fotos//P10.jpg Graphic file (type jpg)
+<use ./Fotos//P10.jpg>
+Package pdftex.def Info: ./Fotos//P10.jpg  used on input line 268.
+(pdftex.def)             Requested size: 151.16206pt x 62.03064pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./Fotos//P7.jpg> <./Fotos//P8.jpg>]
+<./Fotos//P11.jpg, id=67, 1606.0pt x 1204.5pt>
+File: ./Fotos//P11.jpg Graphic file (type jpg)
+<use ./Fotos//P11.jpg>
+Package pdftex.def Info: ./Fotos//P11.jpg  used on input line 277.
+(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
+<./Fotos//Unos.jpeg, id=68, 1084.05pt x 884.30376pt>
+File: ./Fotos//Unos.jpeg Graphic file (type jpg)
+<use ./Fotos//Unos.jpeg>
+Package pdftex.def Info: ./Fotos//Unos.jpeg  used on input line 287.
+(pdftex.def)             Requested size: 47.206pt x 38.49658pt.
+<./Fotos//Dos.jpeg, id=69, 819.06pt x 977.6525pt>
+File: ./Fotos//Dos.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos.jpeg>
+Package pdftex.def Info: ./Fotos//Dos.jpeg  used on input line 293.
+(pdftex.def)             Requested size: 103.84744pt x 123.95163pt.
+ [8 <./Fotos//P10.jpg> <./Fotos//P11.jpg> <./Fotos//Unos.jpeg>]
+<./Fotos//Cuatros.jpeg, id=73, 1084.05pt x 592.2125pt>
+File: ./Fotos//Cuatros.jpeg Graphic file (type jpg)
+<use ./Fotos//Cuatros.jpeg>
+Package pdftex.def Info: ./Fotos//Cuatros.jpeg  used on input line 301.
+(pdftex.def)             Requested size: 47.206pt x 25.78091pt.
+<./Fotos//Cincos.jpeg, id=74, 1084.05pt x 544.0325pt>
+File: ./Fotos//Cincos.jpeg Graphic file (type jpg)
+<use ./Fotos//Cincos.jpeg>
+Package pdftex.def Info: ./Fotos//Cincos.jpeg  used on input line 302.
+(pdftex.def)             Requested size: 47.206pt x 23.68347pt.
+<./Fotos//Generador 2.jpeg, id=75, 1284.8pt x 963.6pt>
+File: ./Fotos//Generador 2.jpeg Graphic file (type jpg)
+<use ./Fotos//Generador 2.jpeg>
+Package pdftex.def Info: ./Fotos//Generador 2.jpeg  used on input line 317.
+(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <./Fotos//Dos.jpeg> <./Fotos//Cuatros.jpeg> <./Fotos//Cincos.jpeg>]
+<./Fotos//Lenteja y anillo 1.jpeg, id=79, 1204.5pt x 1606.0pt>
+File: ./Fotos//Lenteja y anillo 1.jpeg Graphic file (type jpg)
+<use ./Fotos//Lenteja y anillo 1.jpeg>
+Package pdftex.def Info: ./Fotos//Lenteja y anillo 1.jpeg  used on input line 334.
+(pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
+<./Fotos//Lenteja y anillo 2.1.jpeg, id=80, 963.6pt x 1284.8pt>
+File: ./Fotos//Lenteja y anillo 2.1.jpeg Graphic file (type jpg)
+<use ./Fotos//Lenteja y anillo 2.1.jpeg>
+Package pdftex.def Info: ./Fotos//Lenteja y anillo 2.1.jpeg  used on input line 342.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./Fotos//Generador 2.jpeg> <./Fotos//Lenteja y anillo 1.jpeg>]
+<./Fotos//Lenteja y anillo 2.jpeg, id=84, 963.6pt x 1284.8pt>
+File: ./Fotos//Lenteja y anillo 2.jpeg Graphic file (type jpg)
+<use ./Fotos//Lenteja y anillo 2.jpeg>
+Package pdftex.def Info: ./Fotos//Lenteja y anillo 2.jpeg  used on input line 352.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+<./Dibujos//a1.png, id=85, 374.90062pt x 353.06906pt>
+File: ./Dibujos//a1.png Graphic file (type png)
+<use ./Dibujos//a1.png>
+Package pdftex.def Info: ./Dibujos//a1.png  used on input line 363.
+(pdftex.def)             Requested size: 187.44984pt x 176.53409pt.
+<./Dibujos//a2.png, id=86, 377.91188pt x 356.0803pt>
+File: ./Dibujos//a2.png Graphic file (type png)
+<use ./Dibujos//a2.png>
+Package pdftex.def Info: ./Dibujos//a2.png  used on input line 364.
+(pdftex.def)             Requested size: 188.95547pt x 178.03972pt.
+ [11 <./Fotos//Lenteja y anillo 2.1.jpeg> <./Fotos//Lenteja y anillo 2.jpeg>] [12 <./Dibujos//a1.png> <./Dibujos//a2.png>]
+<./Fotos//Dos cargas Dif 1.jpeg, id=96, 963.6pt x 1284.8pt>
+File: ./Fotos//Dos cargas Dif 1.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos cargas Dif 1.jpeg>
+Package pdftex.def Info: ./Fotos//Dos cargas Dif 1.jpeg  used on input line 373.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+<./Fotos//Dos cargas Dif 2.jpeg, id=97, 963.6pt x 1284.8pt>
+File: ./Fotos//Dos cargas Dif 2.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos cargas Dif 2.jpeg>
+Package pdftex.def Info: ./Fotos//Dos cargas Dif 2.jpeg  used on input line 379.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+ [13 <./Fotos//Dos cargas Dif 1.jpeg> <./Fotos//Dos cargas Dif 2.jpeg>]
+<./Dibujos//b.png, id=101, 318.43968pt x 214.55156pt>
+File: ./Dibujos//b.png Graphic file (type png)
+<use ./Dibujos//b.png>
+Package pdftex.def Info: ./Dibujos//b.png  used on input line 388.
+(pdftex.def)             Requested size: 159.21945pt x 107.27551pt.
+ [14 <./Dibujos//b.png>]
+<./Fotos//Dos cargas Ig 1.jpeg, id=106, 721.94719pt x 654.94687pt>
+File: ./Fotos//Dos cargas Ig 1.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos cargas Ig 1.jpeg>
+Package pdftex.def Info: ./Fotos//Dos cargas Ig 1.jpeg  used on input line 398.
+(pdftex.def)             Requested size: 216.58582pt x 196.48558pt.
+<./Fotos//Dos cargas Ig 2.jpeg, id=107, 963.6pt x 722.7pt>
+File: ./Fotos//Dos cargas Ig 2.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos cargas Ig 2.jpeg>
+Package pdftex.def Info: ./Fotos//Dos cargas Ig 2.jpeg  used on input line 405.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+<./Dibujos//c.png, id=108, 322.95656pt x 231.86626pt>
+File: ./Dibujos//c.png Graphic file (type png)
+<use ./Dibujos//c.png>
+Package pdftex.def Info: ./Dibujos//c.png  used on input line 414.
+(pdftex.def)             Requested size: 161.47787pt x 115.93283pt.
+<./Fotos//Dos placas 1.jpeg, id=109, 1284.8pt x 963.6pt>
+File: ./Fotos//Dos placas 1.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos placas 1.jpeg>
+Package pdftex.def Info: ./Fotos//Dos placas 1.jpeg  used on input line 422.
+(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./Fotos//Dos placas 2.jpeg, id=110, 722.7pt x 553.31718pt>
+File: ./Fotos//Dos placas 2.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos placas 2.jpeg>
+Package pdftex.def Info: ./Fotos//Dos placas 2.jpeg  used on input line 428.
+(pdftex.def)             Requested size: 216.81166pt x 165.99643pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./Dibujos//d.png, id=111, 250.68657pt x 187.45032pt>
+File: ./Dibujos//d.png Graphic file (type png)
+<use ./Dibujos//d.png>
+Package pdftex.def Info: ./Dibujos//d.png  used on input line 437.
+(pdftex.def)             Requested size: 125.34297pt x 93.72491pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./Fotos//Dos cargas Ig 1.jpeg> <./Fotos//Dos cargas Ig 2.jpeg>]
+<./Fotos//Dos arillos 1.jpeg, id=115, 719.68875pt x 514.17094pt>
+File: ./Fotos//Dos arillos 1.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos arillos 1.jpeg>
+Package pdftex.def Info: ./Fotos//Dos arillos 1.jpeg  used on input line 446.
+(pdftex.def)             Requested size: 287.87039pt x 205.66473pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./Fotos//Dos arillos 2.jpeg, id=116, 963.6pt x 722.7pt>
+File: ./Fotos//Dos arillos 2.jpeg Graphic file (type jpg)
+<use ./Fotos//Dos arillos 2.jpeg>
+Package pdftex.def Info: ./Fotos//Dos arillos 2.jpeg  used on input line 452.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./Dibujos//e.png, id=117, 392.21532pt x 368.1253pt>
+File: ./Dibujos//e.png Graphic file (type png)
+<use ./Dibujos//e.png>
+Package pdftex.def Info: ./Dibujos//e.png  used on input line 461.
+(pdftex.def)             Requested size: 196.10718pt x 184.0622pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./Dibujos//c.png> <./Fotos//Dos placas 1.jpeg> <./Fotos//Dos placas 2.jpeg>] [17 <./Dibujos//d.png> <./Fotos//Dos arillos 1.jpeg>] [18 <./Fotos//Dos arillos 2.jpeg> <./Dibujos//e.png>] (Electrostatica.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 5721 strings out of 478338
- 101909 string characters out of 2836699
- 505155 words of memory out of 3000000
- 24104 multiletter control sequences out of 15000+600000
+ 6427 strings out of 475385
+ 116818 string characters out of 2776907
+ 550282 words of memory out of 3000000
+ 27691 multiletter control sequences out of 15000+600000
  479402 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,79p,642b,399s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk><D:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Electrostatica.pdf (5 pages, 329184 bytes).
+ 72i,12n,79p,781b,399s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Electrostatica.pdf (19 pages, 4956051 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
+ 496 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
