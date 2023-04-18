@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1681700717 "d:/WorkSpace/Electricidad-y-Magnetismo/Practica-1/Electrostatica.tex" "Electrostatica.pdf" "Electrostatica" 1681700725 2
+["pdflatex"] 1681778274 "d:/WorkSpace/Electricidad-y-Magnetismo/Practica-1/Electrostatica.tex" "Electrostatica.pdf" "Electrostatica" 1681778284 2
   "C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1681661018 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/jehh1/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1440.pk" 1679282581 36900 ddf2e53424786b5d71436a38dafa9ad7 ""
   "C:/Users/jehh1/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/eccc2488.pk" 1679282579 74644 a69c9ea5821316ef5d4d8c6210e2ee12 ""
@@ -74,8 +74,8 @@
   "Dibujos//c.png" 1681617273 22535 b8b4163c72886f31ff2c366be56ed74f ""
   "Dibujos//d.png" 1681617273 16807 a637b1a50ec35f55431212020226eec8 ""
   "Dibujos//e.png" 1681617273 33435 fc8e4b363f6a2cdf6bea3e25428f4d8c ""
-  "Electrostatica.aux" 1681700724 7378 727e28f26024330dd5f9cda269e383f7 "pdflatex"
-  "Electrostatica.toc" 1681700724 2127 962e8b1a47578a23fad5681854d07fdd "pdflatex"
+  "Electrostatica.aux" 1681778283 7496 58b7445363afb5510a96e44bae7af0a9 "pdflatex"
+  "Electrostatica.toc" 1681778283 2204 481ef147448906d3c52a1e1417dd29a4 "pdflatex"
   "Fotos//Barra de metal.jpeg" 1681665559 89929 cf2af774cceb0e6f609ecc847165109b ""
   "Fotos//Barra de poliestireno.jpeg" 1681665553 95076 84c795b01d581b806d5168ddc7f31b70 ""
   "Fotos//Barra de vidrio.jpeg" 1681665545 101096 818084368344b940c6a1d0d8481aa070 ""
@@ -113,7 +113,7 @@
   "Fotos//Pendulo.jpeg" 1681665566 97227 b213303775963634093ddb6ab805118c ""
   "Fotos//Soporte.jpeg" 1681665561 74808 4f829ba120daa4fc4b29b0b815ff885e ""
   "Fotos//Unos.jpeg" 1681668371 78142 bdfbdf7d566925f7d99bb7aab5a3645c ""
-  "d:/WorkSpace/Electricidad-y-Magnetismo/Practica-1/Electrostatica.tex" 1681700708 29576 d3ca646135ed28b7a0717029c77e2087 ""
+  "d:/WorkSpace/Electricidad-y-Magnetismo/Practica-1/Electrostatica.tex" 1681778256 30202 cccb8f87358dc6b89d191dee40dad793 ""
   (generated)
   "Electrostatica.aux"
   "Electrostatica.log"
