@@ -1,0 +1,640 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.14)  20 APR 2023 15:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/uriel/Documents/°DOCUMENTOS/ESIME/Segundo Semestre/Electricidad y Magnetismo/Práctica 1/Práctica1/Practica1.tex"
+(c:/Users/uriel/Documents/°DOCUMENTOS/ESIME/Segundo Semestre/Electricidad y Magnetismo/Práctica 1/Práctica1/Practica1.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30> (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks19
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/03/28 3.87 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen149
+\l@unhyphenated=\language79
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks20
+\es@quotdepth=\count198
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen152
+\captionmargin=\dimen153
+\caption@leftmargin=\dimen154
+\caption@rightmargin=\dimen155
+\caption@width=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+)
+\c@KVtest=\count267
+\sf@farskip=\skip50
+\sf@captopadj=\dimen160
+\sf@capskip=\skip51
+\sf@nearskip=\skip52
+\c@subfigure=\count268
+\c@subfigure@save=\count269
+\c@lofdepth=\count270
+\c@subtable=\count271
+\c@subtable@save=\count272
+\c@lotdepth=\count273
+\sf@top=\skip53
+\sf@bottom=\skip54
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count275
+\l__lipsum_a_int=\count276
+\l__lipsum_b_int=\count277
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks21
+)
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 20.
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+) (Practica1.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Practica1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+(C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen161
+\scratchbox=\box52
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen162
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks23
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(14.22636pt, 745.46222pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=745.46222pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-83.04362pt
+* \headheight=0.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<Fotos//Logo_IPN.png, id=1, 1204.5pt x 1290.8225pt>
+File: Fotos//Logo_IPN.png Graphic file (type png)
+<use Fotos//Logo_IPN.png>
+Package pdftex.def Info: Fotos//Logo_IPN.png  used on input line 36.
+(pdftex.def)             Requested size: 100.15425pt x 107.32535pt.
+<Fotos//LogoEsime.png, id=3, 501.875pt x 501.875pt>
+File: Fotos//LogoEsime.png Graphic file (type png)
+<use Fotos//LogoEsime.png>
+Package pdftex.def Info: Fotos//LogoEsime.png  used on input line 38.
+(pdftex.def)             Requested size: 100.15425pt x 100.15114pt.
+
+Overfull \hbox (20.4353pt too wide) in paragraph at lines 36--39
+[][]  [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10> not available
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 44.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <14.4> not available
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 44.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <24.88> not available
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 48.
+
+[1
+
+
+{C:/Users/uriel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos//Logo_IPN.png> <./Fotos//LogoEsime.png>] (Practica1.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `Practica1.toc'.
+
+ [1] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 104--111
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 113.
+(C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
+File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 113--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+[3]
+<Fotos//Pendulo.jpeg, id=36, 867.24pt x 1156.32pt>
+File: Fotos//Pendulo.jpeg Graphic file (type jpg)
+<use Fotos//Pendulo.jpeg>
+Package pdftex.def Info: Fotos//Pendulo.jpeg  used on input line 136.
+(pdftex.def)             Requested size: 48.37263pt x 64.48882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+<Fotos//Cables.jpeg, id=37, 867.24pt x 1156.32pt>
+File: Fotos//Cables.jpeg Graphic file (type jpg)
+<use Fotos//Cables.jpeg>
+Package pdftex.def Info: Fotos//Cables.jpeg  used on input line 141.
+(pdftex.def)             Requested size: 48.37263pt x 64.48882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+<Fotos//Soporte.jpeg, id=38, 1156.32pt x 867.24pt>
+File: Fotos//Soporte.jpeg Graphic file (type jpg)
+<use Fotos//Soporte.jpeg>
+Package pdftex.def Info: Fotos//Soporte.jpeg  used on input line 147.
+(pdftex.def)             Requested size: 48.37263pt x 36.27165pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<Fotos//Barra de metal.jpeg, id=39, 867.24pt x 1156.32pt>
+File: Fotos//Barra de metal.jpeg Graphic file (type jpg)
+<use Fotos//Barra de metal.jpeg>
+Package pdftex.def Info: Fotos//Barra de metal.jpeg  used on input line 152.
+(pdftex.def)             Requested size: 48.37263pt x 64.48882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+<Fotos//Jumper.jpeg, id=40, 867.24pt x 1156.32pt>
+File: Fotos//Jumper.jpeg Graphic file (type jpg)
+<use Fotos//Jumper.jpeg>
+Package pdftex.def Info: Fotos//Jumper.jpeg  used on input line 157.
+(pdftex.def)             Requested size: 48.37263pt x 64.48882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+<Fotos//Barra de poliestireno.jpeg, id=41, 867.24pt x 1156.32pt>
+File: Fotos//Barra de poliestireno.jpeg Graphic file (type jpg)
+<use Fotos//Barra de poliestireno.jpeg>
+Package pdftex.def Info: Fotos//Barra de poliestireno.jpeg  used on input line 162.
+(pdftex.def)             Requested size: 48.37263pt x 64.48882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+
+ []
+
+[4 <./Fotos//Pendulo.jpeg> <./Fotos//Cables.jpeg> <./Fotos//Soporte.jpeg> <./Fotos//Barra de metal.jpeg> <./Fotos//Jumper.jpeg> <./Fotos//Barra de poliestireno.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<Fotos//Electrodos.jpeg, id=45, 867.24pt x 1156.32pt>
+File: Fotos//Electrodos.jpeg Graphic file (type jpg)
+<use Fotos//Electrodos.jpeg>
+Package pdftex.def Info: Fotos//Electrodos.jpeg  used on input line 168.
+(pdftex.def)             Requested size: 48.37263pt x 64.48882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+<Fotos//Cuba.jpeg, id=46, 867.24pt x 1156.32pt>
+File: Fotos//Cuba.jpeg Graphic file (type jpg)
+<use Fotos//Cuba.jpeg>
+Package pdftex.def Info: Fotos//Cuba.jpeg  used on input line 173.
+(pdftex.def)             Requested size: 48.37263pt x 64.48882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+<Fotos//Barra de vidrio.jpeg, id=47, 867.24pt x 1156.32pt>
+File: Fotos//Barra de vidrio.jpeg Graphic file (type jpg)
+<use Fotos//Barra de vidrio.jpeg>
+Package pdftex.def Info: Fotos//Barra de vidrio.jpeg  used on input line 178.
+(pdftex.def)             Requested size: 48.37263pt x 64.48882pt.
+[5 <./Fotos//Electrodos.jpeg> <./Fotos//Cuba.jpeg> <./Fotos//Barra de vidrio.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+<Fotos//P2.jpg, id=51, 1204.5pt x 1606.0pt>
+File: Fotos//P2.jpg Graphic file (type jpg)
+<use Fotos//P2.jpg>
+Package pdftex.def Info: Fotos//P2.jpg  used on input line 236.
+(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
+<Fotos//P1.jpg, id=52, 1606.0pt x 1204.5pt>
+File: Fotos//P1.jpg Graphic file (type jpg)
+<use Fotos//P1.jpg>
+Package pdftex.def Info: Fotos//P1.jpg  used on input line 237.
+(pdftex.def)             Requested size: 144.53377pt x 108.40031pt.
+[6 <./Fotos//P2.jpg> <./Fotos//P1.jpg>]
+<Fotos//P3.jpg, id=57, 730.73pt x 1284.8pt>
+File: Fotos//P3.jpg Graphic file (type jpg)
+<use Fotos//P3.jpg>
+Package pdftex.def Info: Fotos//P3.jpg  used on input line 249.
+(pdftex.def)             Requested size: 51.15633pt x 89.94519pt.
+<Fotos//P4.jpg, id=58, 731.73375pt x 1284.8pt>
+File: Fotos//P4.jpg Graphic file (type jpg)
+<use Fotos//P4.jpg>
+Package pdftex.def Info: Fotos//P4.jpg  used on input line 250.
+(pdftex.def)             Requested size: 51.2266pt x 89.94519pt.
+<Fotos//P5.jpg, id=59, 1606.0pt x 1204.5pt>
+File: Fotos//P5.jpg Graphic file (type jpg)
+<use Fotos//P5.jpg>
+Package pdftex.def Info: Fotos//P5.jpg  used on input line 260.
+(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
+<Fotos//P6.jpg, id=60, 1606.0pt x 1204.5pt>
+File: Fotos//P6.jpg Graphic file (type jpg)
+<use Fotos//P6.jpg>
+Package pdftex.def Info: Fotos//P6.jpg  used on input line 261.
+(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
+<Fotos//P7.jpg, id=61, 1204.5pt x 1606.0pt>
+File: Fotos//P7.jpg Graphic file (type jpg)
+<use Fotos//P7.jpg>
+Package pdftex.def Info: Fotos//P7.jpg  used on input line 272.
+(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
+<Fotos//P8.jpg, id=62, 1204.5pt x 1606.0pt>
+File: Fotos//P8.jpg Graphic file (type jpg)
+<use Fotos//P8.jpg>
+Package pdftex.def Info: Fotos//P8.jpg  used on input line 282.
+(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
+ [7 <./Fotos//P3.jpg> <./Fotos//P4.jpg> <./Fotos//P5.jpg> <./Fotos//P6.jpg> <./Fotos//P7.jpg>]
+<Fotos//P11.jpg, id=66, 1606.0pt x 1204.5pt>
+File: Fotos//P11.jpg Graphic file (type jpg)
+<use Fotos//P11.jpg>
+Package pdftex.def Info: Fotos//P11.jpg  used on input line 294.
+(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
+<Fotos//Generador 2.jpeg, id=67, 1284.8pt x 963.6pt>
+File: Fotos//Generador 2.jpeg Graphic file (type jpg)
+<use Fotos//Generador 2.jpeg>
+Package pdftex.def Info: Fotos//Generador 2.jpeg  used on input line 310.
+(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./Fotos//P8.jpg> <./Fotos//P11.jpg>]
+<Fotos//Lenteja y anillo 1.jpeg, id=71, 1204.5pt x 1606.0pt>
+File: Fotos//Lenteja y anillo 1.jpeg Graphic file (type jpg)
+<use Fotos//Lenteja y anillo 1.jpeg>
+Package pdftex.def Info: Fotos//Lenteja y anillo 1.jpeg  used on input line 327.
+(pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
+<Fotos//Lenteja y anillo 2.1.jpeg, id=72, 963.6pt x 1284.8pt>
+File: Fotos//Lenteja y anillo 2.1.jpeg Graphic file (type jpg)
+<use Fotos//Lenteja y anillo 2.1.jpeg>
+Package pdftex.def Info: Fotos//Lenteja y anillo 2.1.jpeg  used on input line 334.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <./Fotos//Generador 2.jpeg> <./Fotos//Lenteja y anillo 1.jpeg>]
+<Fotos//Lenteja y anillo 2.jpeg, id=76, 963.6pt x 1284.8pt>
+File: Fotos//Lenteja y anillo 2.jpeg Graphic file (type jpg)
+<use Fotos//Lenteja y anillo 2.jpeg>
+Package pdftex.def Info: Fotos//Lenteja y anillo 2.jpeg  used on input line 344.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+<Dibujos//a1.png, id=77, 374.90062pt x 353.06906pt>
+File: Dibujos//a1.png Graphic file (type png)
+<use Dibujos//a1.png>
+Package pdftex.def Info: Dibujos//a1.png  used on input line 355.
+(pdftex.def)             Requested size: 187.44984pt x 176.53409pt.
+<Dibujos//a2.png, id=78, 377.91188pt x 356.0803pt>
+File: Dibujos//a2.png Graphic file (type png)
+<use Dibujos//a2.png>
+Package pdftex.def Info: Dibujos//a2.png  used on input line 356.
+(pdftex.def)             Requested size: 188.95547pt x 178.03972pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./Fotos//Lenteja y anillo 2.1.jpeg> <./Fotos//Lenteja y anillo 2.jpeg>]
+<Fotos//Dos cargas Dif 1.jpeg, id=82, 963.6pt x 1284.8pt>
+File: Fotos//Dos cargas Dif 1.jpeg Graphic file (type jpg)
+<use Fotos//Dos cargas Dif 1.jpeg>
+Package pdftex.def Info: Fotos//Dos cargas Dif 1.jpeg  used on input line 365.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+<Fotos//Dos cargas Dif 2.jpeg, id=83, 963.6pt x 1284.8pt>
+File: Fotos//Dos cargas Dif 2.jpeg Graphic file (type jpg)
+<use Fotos//Dos cargas Dif 2.jpeg>
+Package pdftex.def Info: Fotos//Dos cargas Dif 2.jpeg  used on input line 371.
+(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./Dibujos//a1.png> <./Dibujos//a2.png> <./Fotos//Dos cargas Dif 1.jpeg>]
+<Dibujos//b.png, id=89, 318.43968pt x 214.55156pt>
+File: Dibujos//b.png Graphic file (type png)
+<use Dibujos//b.png>
+Package pdftex.def Info: Dibujos//b.png  used on input line 381.
+(pdftex.def)             Requested size: 159.21945pt x 107.27551pt.
+ [12 <./Fotos//Dos cargas Dif 2.jpeg> <./Dibujos//b.png>]
+<Fotos//Dos cargas Ig 1.jpeg, id=95, 721.94719pt x 654.94687pt>
+File: Fotos//Dos cargas Ig 1.jpeg Graphic file (type jpg)
+<use Fotos//Dos cargas Ig 1.jpeg>
+Package pdftex.def Info: Fotos//Dos cargas Ig 1.jpeg  used on input line 391.
+(pdftex.def)             Requested size: 216.58582pt x 196.48558pt.
+<Fotos//Dos cargas Ig 2.jpeg, id=96, 963.6pt x 722.7pt>
+File: Fotos//Dos cargas Ig 2.jpeg Graphic file (type jpg)
+<use Fotos//Dos cargas Ig 2.jpeg>
+Package pdftex.def Info: Fotos//Dos cargas Ig 2.jpeg  used on input line 398.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+<Dibujos//c.png, id=97, 322.95656pt x 231.86626pt>
+File: Dibujos//c.png Graphic file (type png)
+<use Dibujos//c.png>
+Package pdftex.def Info: Dibujos//c.png  used on input line 407.
+(pdftex.def)             Requested size: 161.47787pt x 115.93283pt.
+<Fotos//Dos placas 1.jpeg, id=98, 1284.8pt x 963.6pt>
+File: Fotos//Dos placas 1.jpeg Graphic file (type jpg)
+<use Fotos//Dos placas 1.jpeg>
+Package pdftex.def Info: Fotos//Dos placas 1.jpeg  used on input line 415.
+(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
+ [13 <./Fotos//Dos cargas Ig 1.jpeg> <./Fotos//Dos cargas Ig 2.jpeg> <./Dibujos//c.png>]
+<Fotos//Dos placas 2.jpeg, id=103, 722.7pt x 553.31718pt>
+File: Fotos//Dos placas 2.jpeg Graphic file (type jpg)
+<use Fotos//Dos placas 2.jpeg>
+Package pdftex.def Info: Fotos//Dos placas 2.jpeg  used on input line 421.
+(pdftex.def)             Requested size: 216.81166pt x 165.99643pt.
+<Dibujos//d.png, id=104, 250.68657pt x 187.45032pt>
+File: Dibujos//d.png Graphic file (type png)
+<use Dibujos//d.png>
+Package pdftex.def Info: Dibujos//d.png  used on input line 430.
+(pdftex.def)             Requested size: 125.34297pt x 93.72491pt.
+ [14 <./Fotos//Dos placas 1.jpeg> <./Fotos//Dos placas 2.jpeg> <./Dibujos//d.png>]
+<Fotos//Dos arillos 1.jpeg, id=109, 719.68875pt x 514.17094pt>
+File: Fotos//Dos arillos 1.jpeg Graphic file (type jpg)
+<use Fotos//Dos arillos 1.jpeg>
+Package pdftex.def Info: Fotos//Dos arillos 1.jpeg  used on input line 439.
+(pdftex.def)             Requested size: 215.9083pt x 154.25247pt.
+<Fotos//Dos arillos 2.jpeg, id=110, 963.6pt x 722.7pt>
+File: Fotos//Dos arillos 2.jpeg Graphic file (type jpg)
+<use Fotos//Dos arillos 2.jpeg>
+Package pdftex.def Info: Fotos//Dos arillos 2.jpeg  used on input line 445.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+<Dibujos//e.png, id=111, 392.21532pt x 368.1253pt>
+File: Dibujos//e.png Graphic file (type png)
+<use Dibujos//e.png>
+Package pdftex.def Info: Dibujos//e.png  used on input line 454.
+(pdftex.def)             Requested size: 156.88335pt x 147.24751pt.
+ [15 <./Fotos//Dos arillos 1.jpeg> <./Fotos//Dos arillos 2.jpeg> <./Dibujos//e.png>] [16] [17] (Practica1.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 6378 strings out of 476326
+ 116207 string characters out of 5787722
+ 1866660 words of memory out of 5000000
+ 26700 multiletter control sequences out of 15000+600000
+ 522430 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,12n,79p,1161b,413s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1000.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1440.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Practica1.pdf (18 pages, 4678719 bytes).
+PDF statistics:
+ 502 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+
