@@ -7,25 +7,25 @@
 \contentsline {section}{\numberline {3}Marco Teórico}{2}{}%
 \contentsline {subsection}{\numberline {3.1}Definición}{2}{}%
 \contentsline {subsection}{\numberline {3.2}Carga Eléctrica}{2}{}%
-\contentsline {subsection}{\numberline {3.3}Ley de Coulomb}{3}{}%
-\contentsline {subsection}{\numberline {3.4}Propiedades}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Ley de Coulomb}{2}{}%
+\contentsline {subsection}{\numberline {3.4}Propiedades}{2}{}%
 \contentsline {subsection}{\numberline {3.5}Tipos de Materiales}{3}{}%
 \contentsline {subsubsection}{\numberline {3.5.1}Aislantes}{3}{}%
 \contentsline {subsubsection}{\numberline {3.5.2}Conductores}{3}{}%
 \contentsline {subsubsection}{\numberline {3.5.3}Semiconductores}{3}{}%
 \contentsline {section}{\numberline {4}Descripción de materiales}{3}{}%
-\contentsline {section}{\numberline {5}Desarrollo Experimental}{5}{}%
-\contentsline {section}{\numberline {6}Análisis y resultados}{6}{}%
-\contentsline {subsection}{\numberline {6.1}Observaciones de los experimentos II y III}{8}{}%
-\contentsline {section}{\numberline {7}Experimento IV.}{10}{}%
-\contentsline {subsection}{\numberline {7.1}Lenteja y arillo.}{10}{}%
-\contentsline {subsection}{\numberline {7.2}Dos cargas puntuales de diferente signo.}{10}{}%
-\contentsline {subsection}{\numberline {7.3}Dos cargas puntuales del mismo signo.}{11}{}%
-\contentsline {subsection}{\numberline {7.4}Dos placas paralelas cargadas de diferente signo.}{12}{}%
-\contentsline {subsection}{\numberline {7.5}Dos arillos circulares cargados con diferente carga}{12}{}%
-\contentsline {section}{\numberline {8}Conclusión}{18}{}%
-\contentsline {subsection}{\numberline {8.1}Grimaldi Díaz Uriel}{18}{}%
-\contentsline {subsection}{\numberline {8.2}Pérez Vargas Daniela Elizabeth}{18}{}%
-\contentsline {subsection}{\numberline {8.3}Jesus Martinez Amac}{18}{}%
-\contentsline {subsection}{\numberline {8.4}Hernández Huerta José Emilio}{18}{}%
-\contentsline {subsection}{\numberline {8.5}Nataly Bejarano Garduño}{18}{}%
+\contentsline {section}{\numberline {5}Desarrollo Experimental}{3}{}%
+\contentsline {section}{\numberline {6}Análisis y resultados}{4}{}%
+\contentsline {subsection}{\numberline {6.1}Observaciones de los experimentos II y III}{5}{}%
+\contentsline {section}{\numberline {7}Experimento IV.}{6}{}%
+\contentsline {subsection}{\numberline {7.1}Lenteja y arillo.}{6}{}%
+\contentsline {subsection}{\numberline {7.2}Dos cargas puntuales de diferente signo.}{6}{}%
+\contentsline {subsection}{\numberline {7.3}Dos cargas puntuales del mismo signo.}{7}{}%
+\contentsline {subsection}{\numberline {7.4}Dos placas paralelas cargadas de diferente signo.}{7}{}%
+\contentsline {subsection}{\numberline {7.5}Dos arillos circulares cargados con diferente carga}{7}{}%
+\contentsline {section}{\numberline {8}Conclusión}{8}{}%
+\contentsline {subsection}{\numberline {8.1}Grimaldi Díaz Uriel}{8}{}%
+\contentsline {subsection}{\numberline {8.2}Pérez Vargas Daniela Elizabeth}{8}{}%
+\contentsline {subsection}{\numberline {8.3}Jesus Martinez Amac}{8}{}%
+\contentsline {subsection}{\numberline {8.4}Hernández Huerta José Emilio}{8}{}%
+\contentsline {subsection}{\numberline {8.5}Nataly Bejarano Garduño}{8}{}%
