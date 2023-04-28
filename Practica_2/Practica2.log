@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  21 APR 2023 19:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  27 APR 2023 21:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -22,23 +22,34 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+\KV@toks@=\toks16
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count193
-\Gm@cntv=\count194
-\c@Gm@tempcnt=\count195
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -50,12 +61,12 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@dimlist=\toks19
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/03/28 3.87 The Babel package
-\babel@savecnt=\count196
+\babel@savecnt=\count197
 \U@D=\dimen149
 \l@unhyphenated=\language79
  (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count197
+\bbl@dirlevel=\count198
 
 *************************************
 * Local config file bblopts.cfg used
@@ -65,7 +76,7 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of 
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks20
-\es@quotdepth=\count198
+\es@quotdepth=\count199
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
@@ -104,20 +115,20 @@ Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@hangindent=\dimen159
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count199
-\c@continuedfloat=\count266
+\c@caption@flags=\count266
+\c@continuedfloat=\count267
 )
-\c@KVtest=\count267
+\c@KVtest=\count268
 \sf@farskip=\skip50
 \sf@captopadj=\dimen160
 \sf@capskip=\skip51
 \sf@nearskip=\skip52
-\c@subfigure=\count268
-\c@subfigure@save=\count269
-\c@lofdepth=\count270
-\c@subtable=\count271
-\c@subtable@save=\count272
-\c@lotdepth=\count273
+\c@subfigure=\count269
+\c@subfigure@save=\count270
+\c@lofdepth=\count271
+\c@subtable=\count272
+\c@subtable@save=\count273
+\c@lotdepth=\count274
 \sf@top=\skip53
 \sf@bottom=\skip54
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
@@ -131,45 +142,33 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip61
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-03-30 L3 programming layer (loader) 
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
-\l__pdf_internal_box=\box51
-))
-Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count275
-\l__lipsum_a_int=\count276
-\l__lipsum_b_int=\count277
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks21
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count278
-\mult@box=\box52
+\c@tracingmulticols=\count275
+\mult@box=\box51
 \multicol@leftmargin=\dimen161
-\c@unbalance=\count279
-\c@collectmore=\count280
-\doublecol@number=\count281
-\multicoltolerance=\count282
-\multicolpretolerance=\count283
+\c@unbalance=\count276
+\c@collectmore=\count277
+\doublecol@number=\count278
+\multicoltolerance=\count279
+\multicolpretolerance=\count280
 \full@width=\dimen162
 \page@free=\dimen163
 \premulticols=\dimen164
 \postmulticols=\dimen165
 \multicolsep=\skip64
 \multicolbaselineskip=\skip65
-\partial@page=\box53
-\last@line=\box54
+\partial@page=\box52
+\last@line=\box53
 \maxbalancingoverflow=\dimen166
-\mult@rightbox=\box55
-\mult@grightbox=\box56
-\mult@firstbox=\box57
-\mult@gfirstbox=\box58
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
 \@tempa=\box59
 \@tempa=\box60
 \@tempa=\box61
@@ -205,51 +204,54 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box91
 \@tempa=\box92
 \@tempa=\box93
-\@tempa=\box94
-\c@minrows=\count284
-\c@columnbadness=\count285
-\c@finalcolumnbadness=\count286
+\c@minrows=\count281
+\c@columnbadness=\count282
+\c@finalcolumnbadness=\count283
 \last@try=\dimen167
 \multicolovershoot=\dimen168
 \multicolundershoot=\dimen169
-\mult@nat@firstbox=\box95
-\colbreak@box=\box96
-\mc@col@check@num=\count287
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count284
+) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box96
 ) (Practica2.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `Practica2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=483.69687pt
-* \textheight=731.23584pt
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
 * \topmargin=-52.36449pt
@@ -257,7 +259,7 @@ LaTeX Font Info:    ... okay on input line 12.
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
+* \marginparwidth=65.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -270,20 +272,20 @@ LaTeX Font Info:    ... okay on input line 12.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
+\scratchcounter=\count286
 \scratchdimen=\dimen170
 \scratchbox=\box97
-\nofMPsegments=\count289
-\nofMParguments=\count290
+\nofMPsegments=\count287
+\nofMParguments=\count288
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count291
+\MPscratchCnt=\count289
 \MPscratchDim=\dimen171
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
 \everyMPtoPDFconversion=\toks23
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -296,16 +298,16 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
-* v-part:(T,H,B)=(14.22636pt, 745.46222pt, 85.35826pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=455.24411pt
-* \textheight=745.46222pt
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(14.22636pt, 695.38536pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=695.38536pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
 * \topmargin=-83.04362pt
@@ -313,7 +315,7 @@ Package caption Info: End \AtBeginDocument code.
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
+* \marginparwidth=65.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -329,13 +331,13 @@ Package caption Info: End \AtBeginDocument code.
 <Imagenes//Logo_IPN.png, id=1, 587.94656pt x 836.3747pt>
 File: Imagenes//Logo_IPN.png Graphic file (type png)
 <use Imagenes//Logo_IPN.png>
-Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 34.
-(pdftex.def)             Requested size: 68.28383pt x 97.13184pt.
+Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 33.
+(pdftex.def)             Requested size: 70.8018pt x 100.71797pt.
 <Imagenes//LogoEsime.png, id=3, 348.55219pt x 310.91156pt>
 File: Imagenes//LogoEsime.png Graphic file (type png)
 <use Imagenes//LogoEsime.png>
-Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 36.
-(pdftex.def)             Requested size: 100.15425pt x 89.33655pt.
+Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 35.
+(pdftex.def)             Requested size: 103.84744pt x 92.63371pt.
  [1
 
 
@@ -343,31 +345,67 @@ Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 36.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4.
+(Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 4.
+(Font)              <5> on input line 8.
 )
 \tf@toc=\write3
 \openout3 = `Practica2.toc'.
 
- [1] [2] [3
+ [1]
+<Imagenes//Vander.jpeg, id=19, 963.6pt x 1284.8pt>
+File: Imagenes//Vander.jpeg Graphic file (type jpg)
+<use Imagenes//Vander.jpeg>
+Package pdftex.def Info: Imagenes//Vander.jpeg  used on input line 86.
+(pdftex.def)             Requested size: 50.05145pt x 66.73352pt.
+<Imagenes//Metro.jpeg, id=20, 963.6pt x 1284.8pt>
+File: Imagenes//Metro.jpeg Graphic file (type jpg)
+<use Imagenes//Metro.jpeg>
+Package pdftex.def Info: Imagenes//Metro.jpeg  used on input line 92.
+(pdftex.def)             Requested size: 50.05145pt x 66.73352pt.
+<Imagenes//Pelo.jpeg, id=21, 1284.8pt x 963.6pt>
+File: Imagenes//Pelo.jpeg Graphic file (type jpg)
+<use Imagenes//Pelo.jpeg>
+Package pdftex.def Info: Imagenes//Pelo.jpeg  used on input line 97.
+(pdftex.def)             Requested size: 50.05145pt x 37.5376pt.
+<Imagenes//Rehilete.jpeg, id=22, 1284.8pt x 963.6pt>
+File: Imagenes//Rehilete.jpeg Graphic file (type jpg)
+<use Imagenes//Rehilete.jpeg>
+Package pdftex.def Info: Imagenes//Rehilete.jpeg  used on input line 98.
+(pdftex.def)             Requested size: 50.05145pt x 37.5376pt.
+<Imagenes//copas.jpeg, id=23, 1284.8pt x 963.6pt>
+File: Imagenes//copas.jpeg Graphic file (type jpg)
+<use Imagenes//copas.jpeg>
+Package pdftex.def Info: Imagenes//copas.jpeg  used on input line 104.
+(pdftex.def)             Requested size: 50.05145pt x 37.5376pt.
+<Imagenes//bolas.jpeg, id=24, 1284.8pt x 963.6pt>
+File: Imagenes//bolas.jpeg Graphic file (type jpg)
+<use Imagenes//bolas.jpeg>
+Package pdftex.def Info: Imagenes//bolas.jpeg  used on input line 105.
+(pdftex.def)             Requested size: 50.05145pt x 37.5376pt.
+<Imagenes//Herramientas.jpeg, id=25, 611.28375pt x 722.7pt>
+File: Imagenes//Herramientas.jpeg Graphic file (type jpg)
+<use Imagenes//Herramientas.jpeg>
+Package pdftex.def Info: Imagenes//Herramientas.jpeg  used on input line 110.
+(pdftex.def)             Requested size: 50.05145pt x 59.17355pt.
+ [2 <./Imagenes//Vander.jpeg> <./Imagenes//Metro.jpeg> <./Imagenes//Pelo.jpeg> <./Imagenes//Rehilete.jpeg> <./Imagenes//copas.jpeg> <./Imagenes//bolas.jpeg> <./Imagenes//Herramientas.jpeg>] [3] [4
 
 ] (Practica2.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 5629 strings out of 476330
- 101878 string characters out of 5787766
- 1856660 words of memory out of 5000000
- 26026 multiletter control sequences out of 15000+600000
+ 6040 strings out of 476330
+ 105211 string characters out of 5787766
+ 1865660 words of memory out of 5000000
+ 26430 multiletter control sequences out of 15000+600000
  515708 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,79p,298b,413s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,79p,941b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Practica2.pdf (4 pages, 338178 bytes).
+Output written on Practica2.pdf (5 pages, 1242798 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

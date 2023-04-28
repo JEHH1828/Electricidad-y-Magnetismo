@@ -1,8 +1,6 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Resumen.}{2}{}%
-\contentsline {section}{\numberline {2}Objetivos.}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Generales.}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Particulares.}{2}{}%
+\contentsline {section}{\numberline {2}Objetivo.}{2}{}%
 \contentsline {section}{\numberline {3}Introducción.}{2}{}%
 \contentsline {section}{\numberline {4}Marco teórico.}{2}{}%
 \contentsline {section}{\numberline {5}Descripción de materiales.}{2}{}%
@@ -16,4 +14,6 @@
 \contentsline {subsubsection}{\numberline {6.5.2}Mechón de cabellos.}{2}{}%
 \contentsline {subsubsection}{\numberline {6.5.3}Experiencia de la vela.}{2}{}%
 \contentsline {section}{\numberline {7}Análisis y resultados.}{2}{}%
-\contentsline {section}{\numberline {8}Conclusiones.}{2}{}%
+\contentsline {section}{\numberline {8}Discución.}{2}{}%
+\contentsline {section}{\numberline {9}Conclusiones.}{3}{}%
+\contentsline {subsection}{\numberline {9.1}José Emilio Hernández Huerta}{3}{}%
