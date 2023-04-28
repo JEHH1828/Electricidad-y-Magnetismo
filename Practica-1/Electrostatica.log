@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  21 APR 2023 19:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.14)  28 APR 2023 06:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/WorkSpace/Electricidad-y-Magnetismo/Practica-1/Electrostatica.tex
-(d:/WorkSpace/Electricidad-y-Magnetismo/Practica-1/Electrostatica.tex
+**"c:/Users/uriel/Documents/DOCUMENTOS/ESIME/Segundo Semestre/Electricidad_y_Magnetismo/Practica-1/Electrostatica.tex"
+(c:/Users/uriel/Documents/DOCUMENTOS/ESIME/Segundo Semestre/Electricidad_y_Magnetismo/Practica-1/Electrostatica.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30> (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2023-03-30> (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -22,27 +22,27 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/03/28 3.87 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen141
 \l@unhyphenated=\language79
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks18
 \es@quotdepth=\count195
@@ -50,32 +50,32 @@ Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
+)) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen144
 \captionmargin=\dimen145
@@ -103,7 +103,7 @@ Package caption Info: Standard document class detected.
 \c@lotdepth=\count270
 \sf@top=\skip53
 \sf@bottom=\skip54
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count271
 \mult@box=\box51
@@ -171,97 +171,103 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mult@nat@firstbox=\box94
 \colbreak@box=\box95
 \mc@col@check@num=\count280
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip57
+\enit@outerparindent=\dimen162
+\enit@toks=\toks21
+\enit@inbox=\box96
+\enit@count@id=\count281
+\enitdp@description=\count282
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count281
-\Gm@cntv=\count282
-\c@Gm@tempcnt=\count283
-\Gm@bindingoffset=\dimen162
-\Gm@wd@mp=\dimen163
-\Gm@odd@mp=\dimen164
-\Gm@even@mp=\dimen165
-\Gm@layoutwidth=\dimen166
-\Gm@layoutheight=\dimen167
-\Gm@layouthoffset=\dimen168
-\Gm@layoutvoffset=\dimen169
-\Gm@dimlist=\toks20
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks22
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip57
-\f@nch@O@elh=\skip58
-\f@nch@O@erh=\skip59
-\f@nch@O@olh=\skip60
-\f@nch@O@orh=\skip61
-\f@nch@O@elf=\skip62
-\f@nch@O@erf=\skip63
-\f@nch@O@olf=\skip64
-\f@nch@O@orf=\skip65
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2023-03-30 L3 programming layer (loader) 
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
-\l__pdf_internal_box=\box96
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box97
 ))
-Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count285
-\l__lipsum_a_int=\count286
-\l__lipsum_b_int=\count287
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 29.
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+\g__lipsum_par_int=\count287
+\l__lipsum_a_int=\count288
+\l__lipsum_b_int=\count289
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 32.
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-)
-
-LaTeX Warning: Unused global option(s):
-    [14pt].
-
-(Electrostatica.aux
+) (Electrostatica.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `Electrostatica.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen170
-\scratchbox=\box97
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen171
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks22
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\scratchcounter=\count290
+\scratchdimen=\dimen171
+\scratchbox=\box98
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen172
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks24
+) (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -337,34 +343,34 @@ Package caption Info: End \AtBeginDocument code.
 <./Fotos//Logo_IPN.png, id=1, 1204.5pt x 1290.8225pt>
 File: ./Fotos//Logo_IPN.png Graphic file (type png)
 <use ./Fotos//Logo_IPN.png>
-Package pdftex.def Info: ./Fotos//Logo_IPN.png  used on input line 43.
+Package pdftex.def Info: ./Fotos//Logo_IPN.png  used on input line 46.
 (pdftex.def)             Requested size: 103.84744pt x 111.28432pt.
 <./Fotos//LogoEsime.png, id=3, 501.875pt x 501.875pt>
 File: ./Fotos//LogoEsime.png Graphic file (type png)
 <use ./Fotos//LogoEsime.png>
-Package pdftex.def Info: ./Fotos//LogoEsime.png  used on input line 45.
+Package pdftex.def Info: ./Fotos//LogoEsime.png  used on input line 48.
 (pdftex.def)             Requested size: 103.84744pt x 103.84229pt.
 
-Overfull \hbox (21.10695pt too wide) in paragraph at lines 43--46
+Overfull \hbox (21.10695pt too wide) in paragraph at lines 46--49
 [][]  [] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 50.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 53.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 50.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 53.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 54.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 57.
 
 [1
 
 
-{C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos//Logo_IPN.png> <./Fotos//LogoEsime.png>] (Electrostatica.toc
+{C:/Users/uriel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Fotos//Logo_IPN.png> <./Fotos//LogoEsime.png>] (Electrostatica.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -376,15 +382,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `Electrostatica.toc'.
 
  [1]
-Underfull \hbox (badness 10000) in paragraph at lines 107--114
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 116.
-(C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 115.
+(C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 116--125
+Underfull \hbox (badness 10000) in paragraph at lines 115--124
 
  []
 
@@ -392,470 +398,234 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--125
 <./Fotos//Pendulo.jpeg, id=33, 867.24pt x 1156.32pt>
 File: ./Fotos//Pendulo.jpeg Graphic file (type jpg)
 <use ./Fotos//Pendulo.jpeg>
-Package pdftex.def Info: ./Fotos//Pendulo.jpeg  used on input line 139.
-(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+Package pdftex.def Info: ./Fotos//Pendulo.jpeg  used on input line 138.
+(pdftex.def)             Requested size: 69.38062pt x 92.50748pt.
 <./Fotos//Cables.jpeg, id=34, 867.24pt x 1156.32pt>
 File: ./Fotos//Cables.jpeg Graphic file (type jpg)
 <use ./Fotos//Cables.jpeg>
-Package pdftex.def Info: ./Fotos//Cables.jpeg  used on input line 143.
-(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
+Package pdftex.def Info: ./Fotos//Cables.jpeg  used on input line 144.
+(pdftex.def)             Requested size: 69.38062pt x 92.50748pt.
 <./Fotos//Soporte.jpeg, id=35, 1156.32pt x 867.24pt>
 File: ./Fotos//Soporte.jpeg Graphic file (type jpg)
 <use ./Fotos//Soporte.jpeg>
-Package pdftex.def Info: ./Fotos//Soporte.jpeg  used on input line 147.
-(pdftex.def)             Requested size: 47.206pt x 35.39827pt.
+Package pdftex.def Info: ./Fotos//Soporte.jpeg  used on input line 152.
+(pdftex.def)             Requested size: 92.50748pt x 69.38062pt.
 <./Fotos//Barra de metal.jpeg, id=36, 867.24pt x 1156.32pt>
 File: ./Fotos//Barra de metal.jpeg Graphic file (type jpg)
 <use ./Fotos//Barra de metal.jpeg>
-Package pdftex.def Info: ./Fotos//Barra de metal.jpeg  used on input line 151.
-(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
-<./Fotos//Jumper.jpeg, id=37, 867.24pt x 1156.32pt>
-File: ./Fotos//Jumper.jpeg Graphic file (type jpg)
-<use ./Fotos//Jumper.jpeg>
-Package pdftex.def Info: ./Fotos//Jumper.jpeg  used on input line 155.
-(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
-<./Fotos//Barra de poliestireno.jpeg, id=38, 867.24pt x 1156.32pt>
+Package pdftex.def Info: ./Fotos//Barra de metal.jpeg  used on input line 161.
+(pdftex.def)             Requested size: 69.38062pt x 92.50748pt.
+<./Fotos//Barra de poliestireno.jpeg, id=37, 867.24pt x 1156.32pt>
 File: ./Fotos//Barra de poliestireno.jpeg Graphic file (type jpg)
 <use ./Fotos//Barra de poliestireno.jpeg>
-Package pdftex.def Info: ./Fotos//Barra de poliestireno.jpeg  used on input line 159.
-(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
-<./Fotos//Electrodos.jpeg, id=39, 867.24pt x 1156.32pt>
-File: ./Fotos//Electrodos.jpeg Graphic file (type jpg)
-<use ./Fotos//Electrodos.jpeg>
-Package pdftex.def Info: ./Fotos//Electrodos.jpeg  used on input line 163.
-(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
-<./Fotos//Cuba.jpeg, id=40, 867.24pt x 1156.32pt>
-File: ./Fotos//Cuba.jpeg Graphic file (type jpg)
-<use ./Fotos//Cuba.jpeg>
-Package pdftex.def Info: ./Fotos//Cuba.jpeg  used on input line 167.
-(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
-<./Fotos//Barra de vidrio.jpeg, id=41, 867.24pt x 1156.32pt>
+Package pdftex.def Info: ./Fotos//Barra de poliestireno.jpeg  used on input line 170.
+(pdftex.def)             Requested size: 69.38062pt x 92.50748pt.
+<./Fotos//Barra de vidrio.jpeg, id=38, 867.24pt x 1156.32pt>
 File: ./Fotos//Barra de vidrio.jpeg Graphic file (type jpg)
 <use ./Fotos//Barra de vidrio.jpeg>
-Package pdftex.def Info: ./Fotos//Barra de vidrio.jpeg  used on input line 171.
-(pdftex.def)             Requested size: 47.206pt x 62.93614pt.
- [3 <./Fotos//Pendulo.jpeg> <./Fotos//Cables.jpeg> <./Fotos//Soporte.jpeg> <./Fotos//Barra de metal.jpeg> <./Fotos//Jumper.jpeg> <./Fotos//Barra de poliestireno.jpeg> <./Fotos//Electrodos.jpeg> <./Fotos//Cuba.jpeg> <./Fotos//Barra de vidrio.jpeg>]
-<./Fotos//P2.jpg, id=45, 1204.5pt x 1606.0pt>
-File: ./Fotos//P2.jpg Graphic file (type jpg)
-<use ./Fotos//P2.jpg>
-Package pdftex.def Info: ./Fotos//P2.jpg  used on input line 221.
-(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
-<./Fotos//P1.jpg, id=46, 1606.0pt x 1204.5pt>
+Package pdftex.def Info: ./Fotos//Barra de vidrio.jpeg  used on input line 178.
+(pdftex.def)             Requested size: 69.38062pt x 92.50748pt.
+<./Fotos//Jumper.jpeg, id=39, 867.24pt x 1156.32pt>
+File: ./Fotos//Jumper.jpeg Graphic file (type jpg)
+<use ./Fotos//Jumper.jpeg>
+Package pdftex.def Info: ./Fotos//Jumper.jpeg  used on input line 186.
+(pdftex.def)             Requested size: 69.38062pt x 92.50748pt.
+<./Fotos//Electrodos.jpeg, id=40, 867.24pt x 1156.32pt>
+File: ./Fotos//Electrodos.jpeg Graphic file (type jpg)
+<use ./Fotos//Electrodos.jpeg>
+Package pdftex.def Info: ./Fotos//Electrodos.jpeg  used on input line 193.
+(pdftex.def)             Requested size: 69.38062pt x 92.50748pt.
+<./Fotos//Cuba.jpeg, id=41, 867.24pt x 1156.32pt>
+File: ./Fotos//Cuba.jpeg Graphic file (type jpg)
+<use ./Fotos//Cuba.jpeg>
+Package pdftex.def Info: ./Fotos//Cuba.jpeg  used on input line 201.
+(pdftex.def)             Requested size: 69.38062pt x 92.50748pt.
+ [3 <./Fotos//Pendulo.jpeg> <./Fotos//Cables.jpeg> <./Fotos//Soporte.jpeg> <./Fotos//Barra de metal.jpeg> <./Fotos//Barra de poliestireno.jpeg> <./Fotos//Barra de vidrio.jpeg> <./Fotos//Jumper.jpeg> <./Fotos//Electrodos.jpeg>] [4 <./Fotos//Cuba.jpeg>]
+<./Fotos//P1.jpg, id=48, 1606.0pt x 1204.5pt>
 File: ./Fotos//P1.jpg Graphic file (type jpg)
 <use ./Fotos//P1.jpg>
-Package pdftex.def Info: ./Fotos//P1.jpg  used on input line 222.
-(pdftex.def)             Requested size: 144.53377pt x 108.40031pt.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//P3.jpg, id=47, 730.73pt x 1284.8pt>
+Package pdftex.def Info: ./Fotos//P1.jpg  used on input line 258.
+(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
+<./Fotos//P2.jpg, id=49, 1204.5pt x 1606.0pt>
+File: ./Fotos//P2.jpg Graphic file (type jpg)
+<use ./Fotos//P2.jpg>
+Package pdftex.def Info: ./Fotos//P2.jpg  used on input line 259.
+(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
+<./Fotos//P3.jpg, id=50, 730.73pt x 1284.8pt>
 File: ./Fotos//P3.jpg Graphic file (type jpg)
 <use ./Fotos//P3.jpg>
-Package pdftex.def Info: ./Fotos//P3.jpg  used on input line 234.
-(pdftex.def)             Requested size: 51.15633pt x 89.94519pt.
-<./Fotos//P4.jpg, id=48, 731.73375pt x 1284.8pt>
+Package pdftex.def Info: ./Fotos//P3.jpg  used on input line 270.
+(pdftex.def)             Requested size: 58.4596pt x 102.7861pt.
+<./Fotos//P4.jpg, id=51, 731.73375pt x 1284.8pt>
 File: ./Fotos//P4.jpg Graphic file (type jpg)
 <use ./Fotos//P4.jpg>
-Package pdftex.def Info: ./Fotos//P4.jpg  used on input line 235.
-(pdftex.def)             Requested size: 51.2266pt x 89.94519pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-[4]
+Package pdftex.def Info: ./Fotos//P4.jpg  used on input line 271.
+(pdftex.def)             Requested size: 58.53989pt x 102.7861pt.
 <./Fotos//P5.jpg, id=52, 1606.0pt x 1204.5pt>
 File: ./Fotos//P5.jpg Graphic file (type jpg)
 <use ./Fotos//P5.jpg>
-Package pdftex.def Info: ./Fotos//P5.jpg  used on input line 245.
-(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
+Package pdftex.def Info: ./Fotos//P5.jpg  used on input line 280.
+(pdftex.def)             Requested size: 128.48262pt x 96.36197pt.
 <./Fotos//P6.jpg, id=53, 1606.0pt x 1204.5pt>
 File: ./Fotos//P6.jpg Graphic file (type jpg)
 <use ./Fotos//P6.jpg>
-Package pdftex.def Info: ./Fotos//P6.jpg  used on input line 246.
-(pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
+Package pdftex.def Info: ./Fotos//P6.jpg  used on input line 281.
+(pdftex.def)             Requested size: 128.48262pt x 96.36197pt.
 <./Fotos//P7.jpg, id=54, 1204.5pt x 1606.0pt>
 File: ./Fotos//P7.jpg Graphic file (type jpg)
 <use ./Fotos//P7.jpg>
-Package pdftex.def Info: ./Fotos//P7.jpg  used on input line 258.
-(pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
+Package pdftex.def Info: ./Fotos//P7.jpg  used on input line 292.
+(pdftex.def)             Requested size: 96.36197pt x 128.48262pt.
 <./Fotos//P8.jpg, id=55, 1204.5pt x 1606.0pt>
 File: ./Fotos//P8.jpg Graphic file (type jpg)
 <use ./Fotos//P8.jpg>
-Package pdftex.def Info: ./Fotos//P8.jpg  used on input line 268.
+Package pdftex.def Info: ./Fotos//P8.jpg  used on input line 300.
 (pdftex.def)             Requested size: 84.32361pt x 112.43149pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//P10.jpg, id=56, 755.82375pt x 310.15875pt>
-File: ./Fotos//P10.jpg Graphic file (type jpg)
-<use ./Fotos//P10.jpg>
-Package pdftex.def Info: ./Fotos//P10.jpg  used on input line 280.
-(pdftex.def)             Requested size: 151.16206pt x 62.03064pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//P11.jpg, id=57, 1606.0pt x 1204.5pt>
+ [5 <./Fotos//P1.jpg> <./Fotos//P2.jpg> <./Fotos//P3.jpg> <./Fotos//P4.jpg> <./Fotos//P5.jpg> <./Fotos//P6.jpg> <./Fotos//P7.jpg>]
+<./Fotos//P11.jpg, id=59, 1606.0pt x 1204.5pt>
 File: ./Fotos//P11.jpg Graphic file (type jpg)
 <use ./Fotos//P11.jpg>
-Package pdftex.def Info: ./Fotos//P11.jpg  used on input line 289.
+Package pdftex.def Info: ./Fotos//P11.jpg  used on input line 312.
 (pdftex.def)             Requested size: 112.43149pt x 84.32361pt.
 
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 
+ []
 
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Unos.jpeg, id=58, 1084.05pt x 884.30376pt>
+<./Fotos//Unos.jpeg, id=60, 1084.05pt x 884.30376pt>
 File: ./Fotos//Unos.jpeg Graphic file (type jpg)
 <use ./Fotos//Unos.jpeg>
-Package pdftex.def Info: ./Fotos//Unos.jpeg  used on input line 299.
-(pdftex.def)             Requested size: 94.4048pt x 77.00667pt.
+Package pdftex.def Info: ./Fotos//Unos.jpeg  used on input line 322.
+(pdftex.def)             Requested size: 86.72577pt x 70.74574pt.
 
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
+ []
 
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-[5]
-<./Fotos//Dos.jpeg, id=62, 819.06pt x 977.6525pt>
+<./Fotos//Dos.jpeg, id=61, 819.06pt x 977.6525pt>
 File: ./Fotos//Dos.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos.jpeg>
-Package pdftex.def Info: ./Fotos//Dos.jpeg  used on input line 311.
-(pdftex.def)             Requested size: 94.4048pt x 112.67381pt.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Cuatros.jpeg, id=63, 1084.05pt x 592.2125pt>
+Package pdftex.def Info: ./Fotos//Dos.jpeg  used on input line 332.
+(pdftex.def)             Requested size: 65.52614pt x 78.21379pt.
+<./Fotos//Cuatros.jpeg, id=62, 1084.05pt x 592.2125pt>
 File: ./Fotos//Cuatros.jpeg Graphic file (type jpg)
 <use ./Fotos//Cuatros.jpeg>
-Package pdftex.def Info: ./Fotos//Cuatros.jpeg  used on input line 325.
-(pdftex.def)             Requested size: 94.4048pt x 51.57086pt.
-<./Fotos//Cincos.jpeg, id=64, 1084.05pt x 544.0325pt>
+Package pdftex.def Info: ./Fotos//Cuatros.jpeg  used on input line 342.
+(pdftex.def)             Requested size: 86.72577pt x 47.37796pt.
+<./Fotos//Cincos.jpeg, id=63, 1084.05pt x 544.0325pt>
 File: ./Fotos//Cincos.jpeg Graphic file (type jpg)
 <use ./Fotos//Cincos.jpeg>
-Package pdftex.def Info: ./Fotos//Cincos.jpeg  used on input line 327.
-(pdftex.def)             Requested size: 94.4048pt x 47.37526pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Generador 2.jpeg, id=65, 1284.8pt x 963.6pt>
+Package pdftex.def Info: ./Fotos//Cincos.jpeg  used on input line 344.
+(pdftex.def)             Requested size: 86.72577pt x 43.52348pt.
+[6 <./Fotos//P8.jpg> <./Fotos//P11.jpg> <./Fotos//Unos.jpeg> <./Fotos//Dos.jpeg> <./Fotos//Cuatros.jpeg> <./Fotos//Cincos.jpeg>]
+<./Fotos//Generador 2.jpeg, id=68, 1284.8pt x 963.6pt>
 File: ./Fotos//Generador 2.jpeg Graphic file (type jpg)
 <use ./Fotos//Generador 2.jpeg>
-Package pdftex.def Info: ./Fotos//Generador 2.jpeg  used on input line 345.
-(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
-
-Overfull \hbox (25.93983pt too wide) in paragraph at lines 345--346
- [][] 
- []
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Lenteja y anillo 1.jpeg, id=66, 1204.5pt x 1606.0pt>
+Package pdftex.def Info: ./Fotos//Generador 2.jpeg  used on input line 361.
+(pdftex.def)             Requested size: 102.7861pt x 77.08957pt.
+<./Fotos//Lenteja y anillo 1.jpeg, id=69, 1204.5pt x 1606.0pt>
 File: ./Fotos//Lenteja y anillo 1.jpeg Graphic file (type jpg)
 <use ./Fotos//Lenteja y anillo 1.jpeg>
-Package pdftex.def Info: ./Fotos//Lenteja y anillo 1.jpeg  used on input line 362.
-(pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Lenteja y anillo 2.1.jpeg, id=67, 963.6pt x 1284.8pt>
+Package pdftex.def Info: ./Fotos//Lenteja y anillo 1.jpeg  used on input line 378.
+(pdftex.def)             Requested size: 96.36197pt x 128.48262pt.
+<./Fotos//Lenteja y anillo 2.1.jpeg, id=70, 963.6pt x 1284.8pt>
 File: ./Fotos//Lenteja y anillo 2.1.jpeg Graphic file (type jpg)
 <use ./Fotos//Lenteja y anillo 2.1.jpeg>
-Package pdftex.def Info: ./Fotos//Lenteja y anillo 2.1.jpeg  used on input line 370.
-(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-LaTeX Warning: Reference `fig:AyLE1' on page 6 undefined on input line 375.
-
-
-LaTeX Warning: Reference `fig:Generador' on page 6 undefined on input line 375.
-
-<./Fotos//Lenteja y anillo 2.jpeg, id=68, 963.6pt x 1284.8pt>
+Package pdftex.def Info: ./Fotos//Lenteja y anillo 2.1.jpeg  used on input line 387.
+(pdftex.def)             Requested size: 77.08957pt x 102.7861pt.
+<./Fotos//Lenteja y anillo 2.jpeg, id=71, 963.6pt x 1284.8pt>
 File: ./Fotos//Lenteja y anillo 2.jpeg Graphic file (type jpg)
 <use ./Fotos//Lenteja y anillo 2.jpeg>
-Package pdftex.def Info: ./Fotos//Lenteja y anillo 2.jpeg  used on input line 380.
-(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-LaTeX Warning: Reference `fig:AyLE2' on page 6 undefined on input line 385.
-
-
-LaTeX Warning: Reference `fig:Generador' on page 6 undefined on input line 387.
-
-<./Dibujos//a1.png, id=69, 374.90062pt x 353.06906pt>
+Package pdftex.def Info: ./Fotos//Lenteja y anillo 2.jpeg  used on input line 397.
+(pdftex.def)             Requested size: 77.08957pt x 102.7861pt.
+<./Dibujos//a1.png, id=72, 374.90062pt x 353.06906pt>
 File: ./Dibujos//a1.png Graphic file (type png)
 <use ./Dibujos//a1.png>
-Package pdftex.def Info: ./Dibujos//a1.png  used on input line 391.
+Package pdftex.def Info: ./Dibujos//a1.png  used on input line 407.
 (pdftex.def)             Requested size: 187.44984pt x 176.53409pt.
-<./Dibujos//a2.png, id=70, 377.91188pt x 356.0803pt>
+<./Dibujos//a2.png, id=73, 377.91188pt x 356.0803pt>
 File: ./Dibujos//a2.png Graphic file (type png)
 <use ./Dibujos//a2.png>
-Package pdftex.def Info: ./Dibujos//a2.png  used on input line 392.
+Package pdftex.def Info: ./Dibujos//a2.png  used on input line 408.
 (pdftex.def)             Requested size: 188.95547pt x 178.03972pt.
-
-LaTeX Warning: Reference `fig:AyLE1' on page 6 undefined on input line 393.
-
-
-LaTeX Warning: Reference `fig:AyLE2' on page 6 undefined on input line 393.
-
-
-LaTeX Warning: Reference `fig:AyLE1' on page 6 undefined on input line 393.
-
-
-LaTeX Warning: Reference `fig:AyLE2' on page 6 undefined on input line 393.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Dos cargas Dif 1.jpeg, id=71, 963.6pt x 1284.8pt>
+ [7 <./Fotos//Generador 2.jpeg> <./Fotos//Lenteja y anillo 1.jpeg> <./Fotos//Lenteja y anillo 2.1.jpeg> <./Fotos//Lenteja y anillo 2.jpeg>]
+<./Fotos//Dos cargas Dif 1.jpeg, id=77, 963.6pt x 1284.8pt>
 File: ./Fotos//Dos cargas Dif 1.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos cargas Dif 1.jpeg>
-Package pdftex.def Info: ./Fotos//Dos cargas Dif 1.jpeg  used on input line 401.
-(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Dos cargas Dif 2.jpeg, id=72, 963.6pt x 1284.8pt>
+Package pdftex.def Info: ./Fotos//Dos cargas Dif 1.jpeg  used on input line 417.
+(pdftex.def)             Requested size: 77.08957pt x 102.7861pt.
+<./Fotos//Dos cargas Dif 2.jpeg, id=78, 963.6pt x 1284.8pt>
 File: ./Fotos//Dos cargas Dif 2.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos cargas Dif 2.jpeg>
-Package pdftex.def Info: ./Fotos//Dos cargas Dif 2.jpeg  used on input line 407.
-(pdftex.def)             Requested size: 192.71658pt x 256.95544pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-LaTeX Warning: Reference `fig:CDif1' on page 6 undefined on input line 412.
-
-<./Dibujos//b.png, id=73, 318.43968pt x 214.55156pt>
+Package pdftex.def Info: ./Fotos//Dos cargas Dif 2.jpeg  used on input line 423.
+(pdftex.def)             Requested size: 77.08957pt x 102.7861pt.
+<./Dibujos//b.png, id=79, 318.43968pt x 214.55156pt>
 File: ./Dibujos//b.png Graphic file (type png)
 <use ./Dibujos//b.png>
-Package pdftex.def Info: ./Dibujos//b.png  used on input line 416.
+Package pdftex.def Info: ./Dibujos//b.png  used on input line 432.
 (pdftex.def)             Requested size: 159.21945pt x 107.27551pt.
-
-LaTeX Warning: Reference `fig:CDif1' on page 6 undefined on input line 417.
-
-
-LaTeX Warning: Reference `fig:CDif1' on page 6 undefined on input line 417.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Dos cargas Ig 1.jpeg, id=74, 721.94719pt x 654.94687pt>
+<./Fotos//Dos cargas Ig 1.jpeg, id=80, 721.94719pt x 654.94687pt>
 File: ./Fotos//Dos cargas Ig 1.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos cargas Ig 1.jpeg>
-Package pdftex.def Info: ./Fotos//Dos cargas Ig 1.jpeg  used on input line 426.
-(pdftex.def)             Requested size: 216.58582pt x 196.48558pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Dos cargas Ig 2.jpeg, id=75, 963.6pt x 722.7pt>
+Package pdftex.def Info: ./Fotos//Dos cargas Ig 1.jpeg  used on input line 441.
+(pdftex.def)             Requested size: 72.19894pt x 65.49852pt.
+<./Fotos//Dos cargas Ig 2.jpeg, id=81, 963.6pt x 722.7pt>
 File: ./Fotos//Dos cargas Ig 2.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos cargas Ig 2.jpeg>
-Package pdftex.def Info: ./Fotos//Dos cargas Ig 2.jpeg  used on input line 433.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
-
-Overfull \hbox (58.06662pt too wide) in paragraph at lines 433--434
- [][] 
- []
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-LaTeX Warning: Reference `fig:2CarIA' on page 6 undefined on input line 438.
-
-
-LaTeX Warning: Reference `fig:2CarI' on page 6 undefined on input line 438.
-
-[6]
-<./Dibujos//c.png, id=80, 322.95656pt x 231.86626pt>
+Package pdftex.def Info: ./Fotos//Dos cargas Ig 2.jpeg  used on input line 449.
+(pdftex.def)             Requested size: 96.36565pt x 72.27423pt.
+<./Dibujos//c.png, id=82, 322.95656pt x 231.86626pt>
 File: ./Dibujos//c.png Graphic file (type png)
 <use ./Dibujos//c.png>
-Package pdftex.def Info: ./Dibujos//c.png  used on input line 442.
+Package pdftex.def Info: ./Dibujos//c.png  used on input line 458.
 (pdftex.def)             Requested size: 161.47787pt x 115.93283pt.
-
-
-LaTeX Warning: Reference `fig:2CarI' on page 7 undefined on input line 443.
-
-
-LaTeX Warning: Reference `fig:2CarI' on page 7 undefined on input line 443.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Dos placas 1.jpeg, id=81, 1284.8pt x 963.6pt>
+<./Fotos//Dos placas 1.jpeg, id=83, 1284.8pt x 963.6pt>
 File: ./Fotos//Dos placas 1.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos placas 1.jpeg>
-Package pdftex.def Info: ./Fotos//Dos placas 1.jpeg  used on input line 450.
-(pdftex.def)             Requested size: 256.95544pt x 192.71658pt.
-
-Overfull \hbox (25.93983pt too wide) in paragraph at lines 450--451
- [][] 
- []
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Dos placas 2.jpeg, id=82, 722.7pt x 553.31718pt>
+Package pdftex.def Info: ./Fotos//Dos placas 1.jpeg  used on input line 467.
+(pdftex.def)             Requested size: 128.48752pt x 96.36565pt.
+ [8 <./Dibujos//a1.png> <./Dibujos//a2.png> <./Fotos//Dos cargas Dif 1.jpeg> <./Fotos//Dos cargas Dif 2.jpeg> <./Dibujos//b.png> <./Fotos//Dos cargas Ig 1.jpeg> <./Fotos//Dos cargas Ig 2.jpeg>]
+<./Fotos//Dos placas 2.jpeg, id=90, 722.7pt x 553.31718pt>
 File: ./Fotos//Dos placas 2.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos placas 2.jpeg>
-Package pdftex.def Info: ./Fotos//Dos placas 2.jpeg  used on input line 456.
-(pdftex.def)             Requested size: 216.81166pt x 165.99643pt.
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-LaTeX Warning: Reference `fig:DosPlacas' on page 7 undefined on input line 461.
-
-<./Dibujos//d.png, id=83, 250.68657pt x 187.45032pt>
+Package pdftex.def Info: ./Fotos//Dos placas 2.jpeg  used on input line 472.
+(pdftex.def)             Requested size: 144.53743pt x 110.66147pt.
+<./Dibujos//d.png, id=91, 250.68657pt x 187.45032pt>
 File: ./Dibujos//d.png Graphic file (type png)
 <use ./Dibujos//d.png>
-Package pdftex.def Info: ./Dibujos//d.png  used on input line 465.
+Package pdftex.def Info: ./Dibujos//d.png  used on input line 481.
 (pdftex.def)             Requested size: 125.34297pt x 93.72491pt.
-
-LaTeX Warning: Reference `fig:DosPlacas' on page 7 undefined on input line 466.
-
-
-LaTeX Warning: Reference `fig:DosPlacas' on page 7 undefined on input line 466.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-<./Fotos//Dos arillos 1.jpeg, id=84, 719.68875pt x 514.17094pt>
+<./Fotos//Dos arillos 1.jpeg, id=92, 719.68875pt x 514.17094pt>
 File: ./Fotos//Dos arillos 1.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos arillos 1.jpeg>
-Package pdftex.def Info: ./Fotos//Dos arillos 1.jpeg  used on input line 474.
-(pdftex.def)             Requested size: 287.87039pt x 205.66473pt.
-
-Overfull \hbox (56.85478pt too wide) in paragraph at lines 474--475
- [][] 
- []
-
-<./Fotos//Dos arillos 2.jpeg, id=85, 963.6pt x 722.7pt>
+Package pdftex.def Info: ./Fotos//Dos arillos 1.jpeg  used on input line 490.
+(pdftex.def)             Requested size: 143.9352pt x 102.83237pt.
+<./Fotos//Dos arillos 2.jpeg, id=93, 963.6pt x 722.7pt>
 File: ./Fotos//Dos arillos 2.jpeg Graphic file (type jpg)
 <use ./Fotos//Dos arillos 2.jpeg>
-Package pdftex.def Info: ./Fotos//Dos arillos 2.jpeg  used on input line 476.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
-
-Overfull \hbox (58.06662pt too wide) in paragraph at lines 476--477
- [][] 
- []
-
-<./Dibujos//e.png, id=86, 392.21532pt x 368.1253pt>
+Package pdftex.def Info: ./Fotos//Dos arillos 2.jpeg  used on input line 492.
+(pdftex.def)             Requested size: 192.71658pt x 144.53743pt.
+<./Dibujos//e.png, id=94, 392.21532pt x 368.1253pt>
 File: ./Dibujos//e.png Graphic file (type png)
 <use ./Dibujos//e.png>
-Package pdftex.def Info: ./Dibujos//e.png  used on input line 478.
+Package pdftex.def Info: ./Dibujos//e.png  used on input line 494.
 (pdftex.def)             Requested size: 196.10718pt x 184.0622pt.
-
-LaTeX Warning: Float too large for page by 50.28513pt on input line 480.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-[7] [8] [9
-
-] (Electrostatica.aux
+ [9 <./Dibujos//c.png> <./Fotos//Dos placas 1.jpeg> <./Fotos//Dos placas 2.jpeg> <./Dibujos//d.png> <./Fotos//Dos arillos 1.jpeg> <./Fotos//Dos arillos 2.jpeg> <./Dibujos//e.png>] [10] [11] (Electrostatica.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 6563 strings out of 476330
- 119264 string characters out of 5787766
- 1877660 words of memory out of 5000000
- 26878 multiletter control sequences out of 15000+600000
+ 6914 strings out of 476326
+ 126026 string characters out of 5787722
+ 1868660 words of memory out of 5000000
+ 27226 multiletter control sequences out of 15000+600000
  522430 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,79p,1104b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Electrostatica.pdf (10 pages, 1215033 bytes).
+ 72i,12n,79p,1153b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1000.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1440.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\uriel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Electrostatica.pdf (12 pages, 4939093 bytes).
 PDF statistics:
- 477 PDF objects out of 1000 (max. 8388607)
+ 495 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
