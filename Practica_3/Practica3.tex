@@ -77,8 +77,100 @@ estas magnitudes suelen ser , la resistencia eléctrica, el potencial eléctrico
 
 \section{Marco teórico.}
 
+\subsection{El multímetro.}
+Se denomina multimetro al instrumento que es capaz de realizar las funciones de voltímetro, amperímetro y óhmetro. Los multimetros digitales suelen incorporar funciones adicionales como capacítometro, frecuenciometro, medida de hfe (ganancia) de transistores, para medir 
+temperaturas sobre superficies además de otras utilidades como la continuidad eléctrica y la prueba de diodos.
 
+Con los multímetros digitales no solo es posible realizar medidas de voltaje y de corrientes continuas, si no que también nos permiten medir el voltaje de corrientes alternas.
 
+Un multímetro está formado por distintos bloques funcionales que forman las "etapas" de tratamiento de la señal a medir.
+
+\begin{center}
+	\includegraphics[scale = 0.5]{Imagenes/Marco/Multimetro.PNG}\\
+	\begin{enumerate}
+		\item Pantalla LCD
+		\item Tecla PK Hold.
+		\item Tecla de encendido y apagado.
+		\item Tecla de retroiluminación.
+		\item Tecla Corriente Directa / Corriente Alterna.
+		\item Selector.
+		\item Conector de entrada 10 A.
+		\item Conector de entrada mA/temp.
+		\item Conector de entrada COM.
+		\item Conector de entrada V/$\Omega$/Hz.
+	\end{enumerate}
+\end{center}
+
+Un consejo relevante cuando se usan instrumentos analógicos es que siempre conviene medir lo máximo posible el fondo de escala para reducir el error en la medición.
+
+\subsection{Antes de usar un multímetro.}
+Dentro de las comprobaciones de rutina tenemos , primeramente, asegurarnos de que el multímetro tenga buena carga de batería, una forma de saber si tiene una carga adecuada de batería si el multímetro no posee medidor de batería es hacer una prueba de continuidad, si el sonido
+es débil es probable que el multímetro requiera de batería.
+
+También tenemos que verificar que el fusible de protección del multímetro no esté cortado, generalmente este fusible se encuentra en la parte trasera del multímetro. Verificamos de igual manera que las puntas se encuentren en buenas condiciones y por último, una correcta medida se hace
+sin tocar las puntas metalicas , solo sosteniendo las puntas de medición por su mango de plástico.
+
+\subsection{Como utilizar el multímetro.}
+
+A continuación se detallaran las recomendaciones e instrucciones para utilizar correctamente el multímetro para leer las 3 magnitudes fundamentales (Potencial eléctrico,corriente y resistencia).
+\subsubsection{Potencial eléctrico.}
+
+Siga las recomendaciones del manual de usuario sobre el máximo de Potencial Eléctrico soportado por su multimetro.
+\begin{enumerate}
+	\item Coloque el selector en la posición adecuada. Seleccione el rango según se necesite, si no conoce el valor apróximado a medir, inicie primero en la posición de mayor escala y vaya reduciendo según lo pida la lectura.
+	\item Conecte la punta de medición negra a la terminal COM y la punta roja a la terminal V/$\Omega$/Hz.
+	\item Conecte las puntas de medición a la fuente que desee medir.
+\end{enumerate}
+
+Como recomendación adicional, es importante no girar el selector a otro rango ya que podría dañar los componentes del medir.
+\subsubsection{Corriente eléctrica.}
+
+Primeramente dee conectar el medidor en serie con el circuito.
+
+Las terminales que permiten medir Corriente eléctrica suelen estar protegidas por fisibles. Existe un riesgo de incendio o cortocircuito si se aplica un potencial eléctrico con la capacidad de llevar altas corrientes, lo que puede malograr el dispositivo.
+
+Para medir la corriente, abra el circuito y conecte las puntas a los puntos de los dos circuitos de conexión. Nunca conecte las puntas a una sola fuente en paralelo ya que puede quemar el fusible o dañar el circuito que está bajo prueba.
+
+Por último, es importante revisar las especificaciones del multimetro utilizado para saber así su rango de operatividad.
+
+\begin{enumerate}
+	\item Coloque el selector en el rango A necesitado. Si no lo conoce, inicie desde una posición alta y vaya desendiendo.
+	\item Conecte la punta negra al terminar COM y la punta roja a la terminal mA o 10A según el rango necesitado.
+	\item Corte la corriente del circuito bajo prueba y luego abra el circuito en el punto apropiado.
+	\item Conecte las puntas en serie con el circuito. 
+	\item Conecte la alimentación y lea la corriente.
+\end{enumerate}
+\subsubsection{Resistencia.}
+
+Nunca conecte las puntas de prueba a una fuente cuando haya seleccionado la función "Ohms" y conectado las puntas al terminal V/$\Omega$/Hz.
+
+Asegúrese que el circuito no esté conectado a ninguna fuente de alimentación y que cualquier condensador asociado a él esté completamente descargado.
+
+\begin{enumerate}
+	\item Coloque el selector en el rango de Ohm deseado.
+	\item Conecte la punta negra a la terminal COM y la punta roja a la terminal V/$\Omega$/Hz.
+	\item Conecte ambas puntas al dispositivo que desee medir.
+\end{enumerate}
+
+\subsection{Ley de Ohm.}
+
+La ley de Ohm formulada por el físico alemán Georg Simon Ohm establece que cuando por un circuito eléctrico que ofrece cierta
+resistencia R al paso de la corriente que esté a circulando una intensidad I, se produce
+una diferencia de potencial $\Delta$ V entre sus extremos que obedece a la siguiente expresión:
+
+\begin{equation}
+	\Delta V = IR
+\end{equation}
+
+La importancia de la Ley de Ohm radica en que permite calcular y predecir el comportamiento de los circuitos eléctricos.
+
+Algunos ejemplos de su uso y aplicación son los siguientes:
+
+\begin{enumerate}
+	\item Cálculo de corriente, potencial eléctrico o resistencia desconocidos: Si conoces dos de los valores (corriente, potencial eléctrico o resistencia) en un circuito, puedes utilizar la Ley de Ohm para calcular el tercer valor desconocido.
+	\item Dimensionar componentes y calcular resistencias apropiadas para lograr el flujo de corriente deseado en un circuito.
+	\item Evaluar si un circuito cumple con los límites de corriente y potencial eléctrico especificados por los dispositivos.
+\end{enumerate}
 \section{Descripción de materiales.}
 
 \begin{center}
@@ -202,14 +294,17 @@ Tome el multímetro digital y reconozca lo siguiente:
 
 \subsection*{Jesús Martinez Amac.}
 \subsection*{José Emilio Hernández Huerta.}
+
 \subsection*{Nataly Bejarano Garduño.}
 \subsection*{Uriel Grimaldi Díaz.}
 
-\end{multicols}
-\newpage
-\clearpage
 \begin{thebibliography}{0}
-	\bibitem{citekey}
+	\bibitem{citekey}[Bragado, I. M. (2003). Física General.]
+	\bibitem{citekey}[Benchimol, D. (c. 2020). Electrónica práctica. USERSHOP.]
+	\bibitem{citekey}[Peaktech. (2016). Manual de Usuario Peaktech 2005.]
+		
 \end{thebibliography}
+
+\end{multicols}
 
 \end{document}

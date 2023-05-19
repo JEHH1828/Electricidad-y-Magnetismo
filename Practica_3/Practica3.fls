@@ -1,6 +1,6 @@
-PWD c:\Users\uriel\Documents\DOCUMENTOS\ESIME\Segundo Semestre\Electricidad_y_Magnetismo\Practica_3
+PWD c:\Users\uriel\Documents\GitHub\Electricidad-y-Magnetismo\Practica_3
 INPUT C:\Users\uriel\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\uriel\Documents\DOCUMENTOS\ESIME\Segundo Semestre\Electricidad_y_Magnetismo\Practica_3\Practica3.tex
+INPUT c:\Users\uriel\Documents\GitHub\Electricidad-y-Magnetismo\Practica_3\Practica3.tex
 OUTPUT Practica3.log
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -328,6 +328,15 @@ INPUT .\Practica3.toc
 INPUT Practica3.toc
 INPUT Practica3.toc
 OUTPUT Practica3.toc
+INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\Imagenes\Marco\Multimetro.PNG
+INPUT .\Imagenes\Marco\Multimetro.PNG
+INPUT Imagenes\Marco\Multimetro.PNG
+INPUT .\Imagenes\Marco\Multimetro.PNG
+INPUT .\Imagenes\Marco\Multimetro.PNG
+INPUT .\Imagenes\Marco\Multimetro.PNG
+INPUT .\Imagenes\Marco\Multimetro.PNG
 INPUT .\Imagenes\Material\MultiD.jpeg
 INPUT .\Imagenes\Material\MultiD.jpeg
 INPUT Imagenes\Material\MultiD.jpeg
@@ -403,8 +412,6 @@ INPUT .\Imagenes\Material\Resistencias.jpeg
 INPUT .\Imagenes\Material\Resistencias.jpeg
 INPUT .\Imagenes\Material\Resistencias.jpeg
 INPUT .\Imagenes\Material\Resistencias.jpeg
-INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\Imagenes\Fotos\Contacto.png
 INPUT .\Imagenes\Fotos\Contacto.png
 INPUT Imagenes\Fotos\Contacto.png
@@ -426,10 +433,16 @@ INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\uriel\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb

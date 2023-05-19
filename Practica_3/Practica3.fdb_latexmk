@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1684363097 "c:/Users/uriel/Documents/DOCUMENTOS/ESIME/Segundo Semestre/Electricidad_y_Magnetismo/Practica_3/Practica3.tex" "Practica3.pdf" "Practica3" 1684363099 0
+["pdflatex"] 1684460803 "c:/Users/uriel/Documents/GitHub/Electricidad-y-Magnetismo/Practica_3/Practica3.tex" "Practica3.pdf" "Practica3" 1684460805 0
   "C:/Users/uriel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1682680358 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/uriel/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1681501663 23179007 0350e4b8bb0b40c30babdc9d48dca7ce ""
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -12,8 +12,11 @@
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
+  "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1247596667 31809 8670ca339bf94e56da1fc21c80635e2a ""
+  "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb" 1247596653 10304 e98704f815e417bc375e9a880a38e542 ""
   "C:/Users/uriel/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -55,6 +58,7 @@
   "Imagenes//Logo_IPN.png" 1682653871 273200 e6e837908ef6850b7a7af9ee1f199474 ""
   "Imagenes/Fotos/Circuito.png" 1684362858 132248 9332d56c2d91cf7c24b92db415e3d913 ""
   "Imagenes/Fotos/Contacto.png" 1684362829 116703 94333556d318045327e643de4c200b1b ""
+  "Imagenes/Marco/Multimetro.PNG" 1684455909 242831 858f17f22c6911f6835c33d5d56a8cb0 ""
   "Imagenes/Material/Caimanban.jpeg" 1684360356 194967 a0d8706e01e96429954e70684110ae9b ""
   "Imagenes/Material/FuenteVariable.jpeg" 1684360356 136236 09784650d4612af2e6c50a16f23dd39c ""
   "Imagenes/Material/MultiA.jpeg" 1684360356 196917 e352c50e87f3a31b4f864a95b11565cf ""
@@ -65,10 +69,10 @@
   "Imagenes/Material/Puntas.jpeg" 1684360356 173297 526abc7f74bae3c48b7b3b9ed4ca2453 ""
   "Imagenes/Material/Resistencias.jpeg" 1684360561 49747 9b4d975c4aadd9c72833070b2ba2992c ""
   "Imagenes/Material/banban.jpeg" 1684360356 114568 0d73e1c84e87bc60100986c544be2470 ""
-  "Practica3.aux" 1684363099 2768 70a1d3f51abd2fe05e01cff29eb1bba4 "pdflatex"
-  "Practica3.tex" 1684363096 6785 4e5e7c42327d93a99f279105f136ff81 ""
-  "Practica3.toc" 1684363099 1722 07dd54ad22135b9cfd0fd4a3d84fa217 "pdflatex"
-  "c:/Users/uriel/Documents/DOCUMENTOS/ESIME/Segundo Semestre/Electricidad_y_Magnetismo/Practica_3/Practica3.tex" 1684363096 6785 4e5e7c42327d93a99f279105f136ff81 ""
+  "Practica3.aux" 1684460805 3614 64c2ca0e796c4480aa78bf146b85f1ef "pdflatex"
+  "Practica3.tex" 1684460800 12943 bb2a6f947f6f43127ed153bf135289b1 ""
+  "Practica3.toc" 1684460805 2239 5ac6bdc211e3c738d09f2445753db872 "pdflatex"
+  "c:/Users/uriel/Documents/GitHub/Electricidad-y-Magnetismo/Practica_3/Practica3.tex" 1684460800 12943 bb2a6f947f6f43127ed153bf135289b1 ""
   (generated)
   "Practica3.aux"
   "Practica3.log"
