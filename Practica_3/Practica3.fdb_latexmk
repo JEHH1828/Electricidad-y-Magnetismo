@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1684484676 "c:/Users/uriel/Documents/GitHub/Electricidad-y-Magnetismo/Practica_3/Practica3.tex" "Practica3.pdf" "Practica3" 1684484680 0
+["pdflatex"] 1684505163 "c:/Users/uriel/Documents/GitHub/Electricidad-y-Magnetismo/Practica_3/Practica3.tex" "Practica3.pdf" "Practica3" 1684505167 0
   "C:/Users/uriel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1684481668 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/uriel/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1681510818 11548 536fce45ca7b264ed5edb1cbd9081ccb ""
   "C:/Users/uriel/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1681501663 23179007 0350e4b8bb0b40c30babdc9d48dca7ce ""
@@ -118,10 +118,10 @@
   "Imagenes/Material/Puntas.jpeg" 1684360356 173297 526abc7f74bae3c48b7b3b9ed4ca2453 ""
   "Imagenes/Material/Resistencias.jpeg" 1684360561 49747 9b4d975c4aadd9c72833070b2ba2992c ""
   "Imagenes/Material/banban.jpeg" 1684360356 114568 0d73e1c84e87bc60100986c544be2470 ""
-  "Practica3.aux" 1684484679 4543 c42c67680d229b48456f7997bc869e4e "pdflatex"
-  "Practica3.tex" 1684484675 34863 3f81d87f0783e618e2b76b1828f67357 ""
-  "Practica3.toc" 1684484679 2884 e2b9c1c14b75a371788d4ec94389e9d5 "pdflatex"
-  "c:/Users/uriel/Documents/GitHub/Electricidad-y-Magnetismo/Practica_3/Practica3.tex" 1684484675 34863 3f81d87f0783e618e2b76b1828f67357 ""
+  "Practica3.aux" 1684505167 4543 c42c67680d229b48456f7997bc869e4e "pdflatex"
+  "Practica3.tex" 1684505161 35797 8fb9f094d6e6c788424a4395246bcd10 ""
+  "Practica3.toc" 1684505167 2884 e2b9c1c14b75a371788d4ec94389e9d5 "pdflatex"
+  "c:/Users/uriel/Documents/GitHub/Electricidad-y-Magnetismo/Practica_3/Practica3.tex" 1684505161 35797 8fb9f094d6e6c788424a4395246bcd10 ""
   (generated)
   "Practica3.aux"
   "Practica3.log"
