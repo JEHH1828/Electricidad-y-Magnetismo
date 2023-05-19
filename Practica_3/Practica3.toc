@@ -6,24 +6,30 @@
 \contentsline {subsection}{\numberline {4.1}El multímetro.}{2}{}%
 \contentsline {subsection}{\numberline {4.2}Antes de usar un multímetro.}{2}{}%
 \contentsline {subsection}{\numberline {4.3}Como utilizar el multímetro.}{3}{}%
-\contentsline {subsubsection}{\numberline {4.3.1}Potencial eléctrico.}{3}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Diferencia de potencial eléctrico.}{3}{}%
 \contentsline {subsubsection}{\numberline {4.3.2}Corriente eléctrica.}{3}{}%
 \contentsline {subsubsection}{\numberline {4.3.3}Resistencia.}{3}{}%
 \contentsline {subsection}{\numberline {4.4}Ley de Ohm.}{3}{}%
+\contentsline {subsection}{\numberline {4.5}Código de colores en los resistores.}{4}{}%
 \contentsline {section}{\numberline {5}Descripción de materiales.}{4}{}%
-\contentsline {section}{\numberline {6}Desarrollo experimental.}{5}{}%
-\contentsline {subsection}{\numberline {6.1}Reconocimiento del multímetro.}{5}{}%
-\contentsline {subsection}{\numberline {6.2}Mediciones de resistencia(óhmetro).}{5}{}%
-\contentsline {subsection}{\numberline {6.3}Mediciones de continuidad.}{5}{}%
-\contentsline {subsection}{\numberline {6.4}Mediciones de voltaje(vóltmetro).}{6}{}%
-\contentsline {subsection}{\numberline {6.5}Mediciones de voltaje de corriente alterna(vóltmetro).}{6}{}%
+\contentsline {section}{\numberline {6}Desarrollo experimental.}{6}{}%
+\contentsline {subsection}{\numberline {6.1}Reconocimiento del multímetro.}{6}{}%
+\contentsline {subsection}{\numberline {6.2}Mediciones de resistencia(óhmetro).}{6}{}%
+\contentsline {subsection}{\numberline {6.3}Mediciones de continuidad.}{6}{}%
+\contentsline {subsection}{\numberline {6.4}Mediciones de diferencia de potencial eléctrico(vóltmetro).}{6}{}%
+\contentsline {subsection}{\numberline {6.5}Mediciones de diferencia de potencial eléctrico de corriente alterna(vóltmetro).}{6}{}%
 \contentsline {subsection}{\numberline {6.6}Mediciones de intensidad de corriente continua(Amperímetro.)}{6}{}%
-\contentsline {section}{\numberline {7}Discusión de materiales .}{6}{}%
-\contentsline {section}{\numberline {8}Análisis y resultados.}{6}{}%
-\contentsline {subsection}{\numberline {8.1}Reconocimiento del multímetro.}{6}{}%
-\contentsline {subsection}{\numberline {8.2}Mediciones de resistencia(óhmetro).}{6}{}%
-\contentsline {subsection}{\numberline {8.3}Mediciones de continuidad.}{6}{}%
-\contentsline {subsection}{\numberline {8.4}Mediciones de voltaje(vóltmetro).}{6}{}%
-\contentsline {subsection}{\numberline {8.5}Mediciones de voltaje de corriente alterna(vóltmetro).}{6}{}%
-\contentsline {subsection}{\numberline {8.6}Mediciones de intensidad de corriente continua(Amperímetro.)}{6}{}%
-\contentsline {section}{\numberline {9}Conclusiones.}{6}{}%
+\contentsline {section}{\numberline {7}Discusión de materiales.}{7}{}%
+\contentsline {subsection}{\numberline {7.1}Diferencias entre multímetro digital y analógico}{7}{}%
+\contentsline {subsection}{\numberline {7.2}¿Pilas o acumuladores?}{7}{}%
+\contentsline {subsection}{\numberline {7.3}Protoboard}{8}{}%
+\contentsline {subsection}{\numberline {7.4}Variación en el valor nominal de los resistores.}{8}{}%
+\contentsline {section}{\numberline {8}Análisis y resultados.}{9}{}%
+\contentsline {subsection}{\numberline {8.1}Reconocimiento del multímetro.}{9}{}%
+\contentsline {subsubsection}{\numberline {8.1.1}Multímetro Digital Peaktech 2005.}{9}{}%
+\contentsline {subsection}{\numberline {8.2}Mediciones de resistencia(óhmetro).}{9}{}%
+\contentsline {subsection}{\numberline {8.3}Mediciones de continuidad.}{10}{}%
+\contentsline {subsection}{\numberline {8.4}Mediciones de diferencia de potencial eléctrico(vóltmetro).}{10}{}%
+\contentsline {subsection}{\numberline {8.5}Mediciones de diferencia de potencial eléctrico de corriente alterna(vóltmetro).}{11}{}%
+\contentsline {subsection}{\numberline {8.6}Mediciones de intensidad de corriente directa(amperímetro).}{12}{}%
+\contentsline {section}{\numberline {9}Conclusiones.}{12}{}%
