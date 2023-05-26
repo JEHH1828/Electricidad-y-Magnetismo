@@ -1,7 +1,7 @@
-PWD D:\WorkSpace\Electricidad-y-Magnetismo\Practica_3
+PWD D:\WorkSpace\Electricidad-y-Magnetismo\Practica_4
 INPUT C:\Users\jehh1\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\WorkSpace\Electricidad-y-Magnetismo\Practica_3\Practica3.tex
-OUTPUT Practica3.log
+INPUT d:\WorkSpace\Electricidad-y-Magnetismo\Practica_4\Osciloscopio.tex
+OUTPUT Osciloscopio.log
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -267,28 +267,6 @@ INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
@@ -300,10 +278,10 @@ INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\Practica3.aux
-INPUT Practica3.aux
-INPUT Practica3.aux
-OUTPUT Practica3.aux
+INPUT .\Osciloscopio.aux
+INPUT Osciloscopio.aux
+INPUT Osciloscopio.aux
+OUTPUT Osciloscopio.aux
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -326,7 +304,7 @@ INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT .\Imagenes\\Logo_IPN.png
 INPUT Imagenes\\Logo_IPN.png
 INPUT .\Imagenes\\Logo_IPN.png
-OUTPUT Practica3.pdf
+OUTPUT Osciloscopio.pdf
 INPUT .\Imagenes\\Logo_IPN.png
 INPUT .\Imagenes\\Logo_IPN.png
 INPUT .\Imagenes\\Logo_IPN.png
@@ -346,103 +324,58 @@ INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tf
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\jehh1\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT Practica3.toc
-INPUT .\Imagenes\Material\MultiD.jpeg
-INPUT .\Imagenes\Material\MultiD.jpeg
-INPUT Imagenes\Material\MultiD.jpeg
-INPUT .\Imagenes\Material\MultiD.jpeg
-INPUT .\Imagenes\Material\MultiD.jpeg
-INPUT .\Imagenes\Material\MultiD.jpeg
-INPUT .\Imagenes\Material\MultiD.jpeg
-INPUT .\Imagenes\Material\MultiA.jpeg
-INPUT .\Imagenes\Material\MultiA.jpeg
-INPUT Imagenes\Material\MultiA.jpeg
-INPUT .\Imagenes\Material\MultiA.jpeg
-INPUT .\Imagenes\Material\MultiA.jpeg
-INPUT .\Imagenes\Material\MultiA.jpeg
-INPUT .\Imagenes\Material\MultiA.jpeg
-INPUT .\Imagenes\Material\Puntas.jpeg
-INPUT .\Imagenes\Material\Puntas.jpeg
-INPUT Imagenes\Material\Puntas.jpeg
-INPUT .\Imagenes\Material\Puntas.jpeg
-INPUT .\Imagenes\Material\Puntas.jpeg
-INPUT .\Imagenes\Material\Puntas.jpeg
-INPUT .\Imagenes\Material\Puntas.jpeg
-INPUT .\Imagenes\Material\PilaD.jpeg
-INPUT .\Imagenes\Material\PilaD.jpeg
-INPUT Imagenes\Material\PilaD.jpeg
-INPUT .\Imagenes\Material\PilaD.jpeg
-INPUT .\Imagenes\Material\PilaD.jpeg
-INPUT .\Imagenes\Material\PilaD.jpeg
-INPUT .\Imagenes\Material\PilaD.jpeg
-INPUT .\Imagenes\Material\PilaDes.jpeg
-INPUT .\Imagenes\Material\PilaDes.jpeg
-INPUT Imagenes\Material\PilaDes.jpeg
-INPUT .\Imagenes\Material\PilaDes.jpeg
-INPUT .\Imagenes\Material\PilaDes.jpeg
-INPUT .\Imagenes\Material\PilaDes.jpeg
-INPUT .\Imagenes\Material\PilaDes.jpeg
-INPUT .\Imagenes\Material\Protoboard y jumper.jpeg
-INPUT .\Imagenes\Material\Protoboard y jumper.jpeg
-INPUT Imagenes\Material\Protoboard y jumper.jpeg
-INPUT .\Imagenes\Material\Protoboard y jumper.jpeg
-INPUT .\Imagenes\Material\Protoboard y jumper.jpeg
-INPUT .\Imagenes\Material\Protoboard y jumper.jpeg
-INPUT .\Imagenes\Material\Protoboard y jumper.jpeg
-INPUT .\Imagenes\Material\Caimanban.jpeg
-INPUT .\Imagenes\Material\Caimanban.jpeg
-INPUT Imagenes\Material\Caimanban.jpeg
-INPUT .\Imagenes\Material\Caimanban.jpeg
-INPUT .\Imagenes\Material\Caimanban.jpeg
-INPUT .\Imagenes\Material\Caimanban.jpeg
-INPUT .\Imagenes\Material\Caimanban.jpeg
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
-INPUT .\Imagenes\Material\banban.jpeg
-INPUT .\Imagenes\Material\banban.jpeg
-INPUT Imagenes\Material\banban.jpeg
-INPUT .\Imagenes\Material\banban.jpeg
-INPUT .\Imagenes\Material\banban.jpeg
-INPUT .\Imagenes\Material\banban.jpeg
-INPUT .\Imagenes\Material\banban.jpeg
-INPUT .\Imagenes\Material\FuenteVariable.jpeg
-INPUT .\Imagenes\Material\FuenteVariable.jpeg
-INPUT Imagenes\Material\FuenteVariable.jpeg
-INPUT .\Imagenes\Material\FuenteVariable.jpeg
-INPUT .\Imagenes\Material\FuenteVariable.jpeg
-INPUT .\Imagenes\Material\FuenteVariable.jpeg
-INPUT .\Imagenes\Material\FuenteVariable.jpeg
-INPUT .\Imagenes\Material\Resistencias.jpeg
-INPUT .\Imagenes\Material\Resistencias.jpeg
-INPUT Imagenes\Material\Resistencias.jpeg
-INPUT .\Imagenes\Material\Resistencias.jpeg
-INPUT .\Imagenes\Material\Resistencias.jpeg
-INPUT .\Imagenes\Material\Resistencias.jpeg
-INPUT .\Imagenes\Material\Resistencias.jpeg
+INPUT .\Osciloscopio.toc
+INPUT Osciloscopio.toc
+INPUT Osciloscopio.toc
+OUTPUT Osciloscopio.toc
+INPUT .\Imagenes\Marco Teorico\Imagen1.jpg
+INPUT Imagenes\Marco Teorico\Imagen1.jpg
+INPUT .\Imagenes\Marco Teorico\Imagen1.jpg
+INPUT .\Imagenes\Marco Teorico\Imagen1.jpg
+INPUT .\Imagenes\Marco Teorico\Imagen1.jpg
+INPUT .\Imagenes\Marco Teorico\Imagen1.jpg
+INPUT .\Imagenes\Marco Teorico\Imagen2.png
+INPUT Imagenes\Marco Teorico\Imagen2.png
+INPUT .\Imagenes\Marco Teorico\Imagen2.png
+INPUT .\Imagenes\Marco Teorico\Imagen2.png
+INPUT .\Imagenes\Marco Teorico\Imagen2.png
+INPUT .\Imagenes\Marco Teorico\Imagen2.png
+INPUT .\Imagenes\Marco Teorico\Imagen3.png
+INPUT Imagenes\Marco Teorico\Imagen3.png
+INPUT .\Imagenes\Marco Teorico\Imagen3.png
+INPUT .\Imagenes\Marco Teorico\Imagen3.png
+INPUT .\Imagenes\Marco Teorico\Imagen3.png
+INPUT .\Imagenes\Marco Teorico\Imagen3.png
+INPUT .\Imagenes\Marco Teorico\Imagen4.png
+INPUT Imagenes\Marco Teorico\Imagen4.png
+INPUT .\Imagenes\Marco Teorico\Imagen4.png
+INPUT .\Imagenes\Marco Teorico\Imagen4.png
+INPUT .\Imagenes\Marco Teorico\Imagen4.png
+INPUT .\Imagenes\Marco Teorico\Imagen4.png
+INPUT .\Imagenes\Marco Teorico\Imagen5 pero usa el tuyo .png
+INPUT .\Imagenes\Marco Teorico\Imagen5 pero usa el tuyo .png
+INPUT Imagenes\Marco Teorico\Imagen5 pero usa el tuyo .png
+INPUT .\Imagenes\Marco Teorico\Imagen5 pero usa el tuyo .png
+INPUT .\Imagenes\Marco Teorico\Imagen5 pero usa el tuyo .png
+INPUT .\Imagenes\Marco Teorico\Imagen5 pero usa el tuyo .png
+INPUT .\Imagenes\Marco Teorico\Imagen5 pero usa el tuyo .png
+INPUT .\Imagenes\Marco Teorico\Imagen6.png
+INPUT Imagenes\Marco Teorico\Imagen6.png
+INPUT .\Imagenes\Marco Teorico\Imagen6.png
+INPUT .\Imagenes\Marco Teorico\Imagen6.png
+INPUT .\Imagenes\Marco Teorico\Imagen6.png
+INPUT .\Imagenes\Marco Teorico\Imagen6.png
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\Imagenes\Fotos\Contacto.png
-INPUT .\Imagenes\Fotos\Contacto.png
-INPUT Imagenes\Fotos\Contacto.png
-INPUT .\Imagenes\Fotos\Contacto.png
-INPUT .\Imagenes\Fotos\Contacto.png
-INPUT .\Imagenes\Fotos\Contacto.png
-INPUT .\Imagenes\Fotos\Contacto.png
-INPUT .\Imagenes\Fotos\Circuito.png
-INPUT .\Imagenes\Fotos\Circuito.png
-INPUT Imagenes\Fotos\Circuito.png
-INPUT .\Imagenes\Fotos\Circuito.png
-INPUT .\Imagenes\Fotos\Circuito.png
-INPUT .\Imagenes\Fotos\Circuito.png
-INPUT .\Imagenes\Fotos\Circuito.png
-INPUT Practica3.aux
+INPUT Osciloscopio.aux
+INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
@@ -451,5 +384,3 @@ INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
-INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb

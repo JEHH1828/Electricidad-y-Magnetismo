@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Resumen.}{2}{}%
+\contentsline {section}{\numberline {2}Objetivo.}{2}{}%
+\contentsline {section}{\numberline {3}Introducción.}{2}{}%
+\contentsline {section}{\numberline {4}Marco teórico.}{2}{}%
+\contentsline {section}{\numberline {5}Descripción de materiales.}{2}{}%
+\contentsline {section}{\numberline {6}Desarrollo experimental.}{2}{}%
+\contentsline {section}{\numberline {7}Análisis y resultados.}{2}{}%
+\contentsline {section}{\numberline {8}Discución.}{2}{}%
+\contentsline {section}{\numberline {9}Conclusiones.}{2}{}%
+\contentsline {subsection}{\numberline {9.1}José Emilio Hernández Huerta}{2}{}%
+\contentsline {subsection}{\numberline {9.2}Jesus Martinez Amac}{2}{}%
+\contentsline {subsection}{\numberline {9.3}Nataly Garduño Bejarano}{2}{}%
+\contentsline {subsection}{\numberline {9.4}Perez Vargas Daniela Elizabeth}{2}{}%

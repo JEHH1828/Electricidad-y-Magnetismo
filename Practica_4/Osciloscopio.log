@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  18 MAY 2023 23:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  25 MAY 2023 21:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/WorkSpace/Electricidad-y-Magnetismo/Practica_3/Practica3.tex
-(d:/WorkSpace/Electricidad-y-Magnetismo/Practica_3/Practica3.tex
+**d:/WorkSpace/Electricidad-y-Magnetismo/Practica_4/Osciloscopio.tex
+(d:/WorkSpace/Electricidad-y-Magnetismo/Practica_4/Osciloscopio.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -213,46 +213,30 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mult@nat@firstbox=\box94
 \colbreak@box=\box95
 \mc@col@check@num=\count284
-) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen170
-\ar@mcellbox=\box96
-\extrarowheight=\dimen171
-\NC@list=\toks22
-\extratabsurround=\skip66
-\backup@length=\skip67
-\ar@cellbox=\box97
-)
-\TX@col@width=\dimen172
-\TX@old@table=\dimen173
-\TX@old@col=\dimen174
-\TX@target=\dimen175
-\TX@delta=\dimen176
-\TX@cols=\count285
-\TX@ftn=\toks23
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box98
-) (Practica3.aux)
-\openout1 = `Practica3.aux'.
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box96
+) (Osciloscopio.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Osciloscopio.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -288,21 +272,21 @@ LaTeX Font Info:    ... okay on input line 12.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
-\scratchdimen=\dimen177
-\scratchbox=\box99
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count290
-\MPscratchDim=\dimen178
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count286
+\scratchdimen=\dimen170
+\scratchbox=\box97
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen171
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks23
 ) (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -347,180 +331,85 @@ Package caption Info: End \AtBeginDocument code.
 <Imagenes//Logo_IPN.png, id=1, 587.94656pt x 836.3747pt>
 File: Imagenes//Logo_IPN.png Graphic file (type png)
 <use Imagenes//Logo_IPN.png>
-Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 34.
+Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 33.
 (pdftex.def)             Requested size: 70.8018pt x 100.71797pt.
 <Imagenes//LogoEsime.png, id=3, 348.55219pt x 310.91156pt>
 File: Imagenes//LogoEsime.png Graphic file (type png)
 <use Imagenes//LogoEsime.png>
-Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 36.
+Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 35.
 (pdftex.def)             Requested size: 103.84744pt x 92.63371pt.
- [1
+
+Overfull \hbox (35.26064pt too wide) in paragraph at lines 33--36
+[][]  [] 
+ []
+
+[1
 
 
-{C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Imagenes//Logo_IPN.png> <./Imagenes//LogoEsime.png>]
-No file Practica3.toc.
-\tf@toc=\write3
-\openout3 = `Practica3.toc'.
-
-[1]
-<Imagenes/Material/MultiD.jpeg, id=18, 1204.5pt x 1606.0pt>
-File: Imagenes/Material/MultiD.jpeg Graphic file (type jpg)
-<use Imagenes/Material/MultiD.jpeg>
-Package pdftex.def Info: Imagenes/Material/MultiD.jpeg  used on input line 87.
-(pdftex.def)             Requested size: 120.45705pt x 160.6094pt.
-<Imagenes/Material/MultiA.jpeg, id=19, 1204.5pt x 1606.0pt>
-File: Imagenes/Material/MultiA.jpeg Graphic file (type jpg)
-<use Imagenes/Material/MultiA.jpeg>
-Package pdftex.def Info: Imagenes/Material/MultiA.jpeg  used on input line 90.
-(pdftex.def)             Requested size: 120.45705pt x 160.6094pt.
-<Imagenes/Material/Puntas.jpeg, id=20, 1606.0pt x 1204.5pt>
-File: Imagenes/Material/Puntas.jpeg Graphic file (type jpg)
-<use Imagenes/Material/Puntas.jpeg>
-Package pdftex.def Info: Imagenes/Material/Puntas.jpeg  used on input line 93.
-(pdftex.def)             Requested size: 160.6094pt x 120.45705pt.
-<Imagenes/Material/PilaD.jpeg, id=21, 1204.5pt x 1606.0pt>
-File: Imagenes/Material/PilaD.jpeg Graphic file (type jpg)
-<use Imagenes/Material/PilaD.jpeg>
-Package pdftex.def Info: Imagenes/Material/PilaD.jpeg  used on input line 96.
-(pdftex.def)             Requested size: 120.45705pt x 160.6094pt.
-<Imagenes/Material/PilaDes.jpeg, id=22, 1204.5pt x 1606.0pt>
-File: Imagenes/Material/PilaDes.jpeg Graphic file (type jpg)
-<use Imagenes/Material/PilaDes.jpeg>
-Package pdftex.def Info: Imagenes/Material/PilaDes.jpeg  used on input line 99.
-(pdftex.def)             Requested size: 120.45705pt x 160.6094pt.
-<Imagenes/Material/Protoboard y jumper.jpeg, id=23, 1204.5pt x 1606.0pt>
-File: Imagenes/Material/Protoboard y jumper.jpeg Graphic file (type jpg)
-<use Imagenes/Material/Protoboard y jumper.jpeg>
-Package pdftex.def Info: Imagenes/Material/Protoboard y jumper.jpeg  used on input line 102.
-(pdftex.def)             Requested size: 120.45705pt x 160.6094pt.
- [2 <./Imagenes/Material/MultiD.jpeg> <./Imagenes/Material/MultiA.jpeg> <./Imagenes/Material/Puntas.jpeg> <./Imagenes/Material/PilaD.jpeg>]
-<Imagenes/Material/Caimanban.jpeg, id=27, 1204.5pt x 1606.0pt>
-File: Imagenes/Material/Caimanban.jpeg Graphic file (type jpg)
-<use Imagenes/Material/Caimanban.jpeg>
-Package pdftex.def Info: Imagenes/Material/Caimanban.jpeg  used on input line 105.
-(pdftex.def)             Requested size: 120.45705pt x 160.6094pt.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 106.
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+{C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Imagenes//Logo_IPN.png> <./Imagenes//LogoEsime.png>] (Osciloscopio.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 11.
 )
-<Imagenes/Material/banban.jpeg, id=28, 1204.5pt x 1606.0pt>
-File: Imagenes/Material/banban.jpeg Graphic file (type jpg)
-<use Imagenes/Material/banban.jpeg>
-Package pdftex.def Info: Imagenes/Material/banban.jpeg  used on input line 108.
-(pdftex.def)             Requested size: 120.45705pt x 160.6094pt.
-<Imagenes/Material/FuenteVariable.jpeg, id=29, 1606.0pt x 1204.5pt>
-File: Imagenes/Material/FuenteVariable.jpeg Graphic file (type jpg)
-<use Imagenes/Material/FuenteVariable.jpeg>
-Package pdftex.def Info: Imagenes/Material/FuenteVariable.jpeg  used on input line 111.
-(pdftex.def)             Requested size: 160.6094pt x 120.45705pt.
-<Imagenes/Material/Resistencias.jpeg, id=30, 154.32657pt x 204.01219pt>
-File: Imagenes/Material/Resistencias.jpeg Graphic file (type jpg)
-<use Imagenes/Material/Resistencias.jpeg>
-Package pdftex.def Info: Imagenes/Material/Resistencias.jpeg  used on input line 114.
-(pdftex.def)             Requested size: 154.32617pt x 204.01169pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 115.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 115.
- [3 <./Imagenes/Material/PilaDes.jpeg> <./Imagenes/Material/Protoboard y jumper.jpeg> <./Imagenes/Material/Caimanban.jpeg> <./Imagenes/Material/banban.jpeg> <./Imagenes/Material/FuenteVariable.jpeg> <./Imagenes/Material/Resistencias.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\tf@toc=\write3
+\openout3 = `Osciloscopio.toc'.
 
- []
-
-<Imagenes/Fotos/Contacto.png, id=35, 133.6995pt x 80.2197pt>
-File: Imagenes/Fotos/Contacto.png Graphic file (type png)
-<use Imagenes/Fotos/Contacto.png>
-Package pdftex.def Info: Imagenes/Fotos/Contacto.png  used on input line 163.
-(pdftex.def)             Requested size: 133.69916pt x 80.2195pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
-
- []
-
-<Imagenes/Fotos/Circuito.png, id=36, 209.22165pt x 69.01785pt>
-File: Imagenes/Fotos/Circuito.png Graphic file (type png)
-<use Imagenes/Fotos/Circuito.png>
-Package pdftex.def Info: Imagenes/Fotos/Circuito.png  used on input line 173.
-(pdftex.def)             Requested size: 209.22113pt x 69.01767pt.
-
-d:/WorkSpace/Electricidad-y-Magnetismo/Practica_3/Practica3.tex:190: LaTeX Error: Environment adjustbox undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.190 \begin{adjustbox}
-                       {width=\textwidth}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-d:/WorkSpace/Electricidad-y-Magnetismo/Practica_3/Practica3.tex:190: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.190 \begin{adjustbox}{width=\textwidth}
-                                         
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-d:/WorkSpace/Electricidad-y-Magnetismo/Practica_3/Practica3.tex:190: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.190 \begin{adjustbox}{width=\textwidth}
-                                         
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
+ [1]
+<Imagenes/Marco Teorico/Imagen1.jpg, id=19, 287.57437pt x 143.78719pt>
+File: Imagenes/Marco Teorico/Imagen1.jpg Graphic file (type jpg)
+<use Imagenes/Marco Teorico/Imagen1.jpg>
+Package pdftex.def Info: Imagenes/Marco Teorico/Imagen1.jpg  used on input line 80.
+(pdftex.def)             Requested size: 50.05145pt x 25.0249pt.
+<Imagenes/Marco Teorico/Imagen2.png, id=20, 145.29282pt x 118.19156pt>
+File: Imagenes/Marco Teorico/Imagen2.png Graphic file (type png)
+<use Imagenes/Marco Teorico/Imagen2.png>
+Package pdftex.def Info: Imagenes/Marco Teorico/Imagen2.png  used on input line 82.
+(pdftex.def)             Requested size: 50.05145pt x 40.71481pt.
+<Imagenes/Marco Teorico/Imagen3.png, id=21, 156.585pt x 125.71968pt>
+File: Imagenes/Marco Teorico/Imagen3.png Graphic file (type png)
+<use Imagenes/Marco Teorico/Imagen3.png>
+Package pdftex.def Info: Imagenes/Marco Teorico/Imagen3.png  used on input line 84.
+(pdftex.def)             Requested size: 50.05145pt x 40.18507pt.
+<Imagenes/Marco Teorico/Imagen4.png, id=22, 183.68625pt x 148.30406pt>
+File: Imagenes/Marco Teorico/Imagen4.png Graphic file (type png)
+<use Imagenes/Marco Teorico/Imagen4.png>
+Package pdftex.def Info: Imagenes/Marco Teorico/Imagen4.png  used on input line 86.
+(pdftex.def)             Requested size: 50.05145pt x 40.40921pt.
 
 
-d:/WorkSpace/Electricidad-y-Magnetismo/Practica_3/Practica3.tex:206: LaTeX Error: \begin{multicols} on input line 68 ended by \end{adjustbox}.
+LaTeX Warning: Command \textendash invalid in math mode on input line 95.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.206 \end{adjustbox}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+<Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png, id=23, 416.30531pt x 243.15843pt>
+File: Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png Graphic file (type png)
+<use Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png>
+Package pdftex.def Info: Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png  used on input line 105.
+(pdftex.def)             Requested size: 50.05145pt x 29.2334pt.
+<Imagenes/Marco Teorico/Imagen6.png, id=24, 150.453pt x 83.22pt>
+File: Imagenes/Marco Teorico/Imagen6.png Graphic file (type png)
+<use Imagenes/Marco Teorico/Imagen6.png>
+Package pdftex.def Info: Imagenes/Marco Teorico/Imagen6.png  used on input line 108.
+(pdftex.def)             Requested size: 50.05145pt x 27.68489pt.
+[2 <./Imagenes/Marco Teorico/Imagen1.jpg> <./Imagenes/Marco Teorico/Imagen2.png> <./Imagenes/Marco Teorico/Imagen3.png> <./Imagenes/Marco Teorico/Imagen4.png> <./Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png> <./Imagenes/Marco Teorico/Imagen6.png>] [3
 
-
-Overfull \hbox (283.54797pt too wide) in paragraph at lines 190--207
-[]\OT1/cmr/m/n/10 width= []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--207
-
- []
-
-[4 <./Imagenes/Fotos/Contacto.png> <./Imagenes/Fotos/Circuito.png>] [5] [6
-
-] (Practica3.aux
+] (Osciloscopio.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 6158 strings out of 476330
- 108199 string characters out of 5787766
- 1871660 words of memory out of 5000000
- 26529 multiletter control sequences out of 15000+600000
- 515814 words of font info for 44 fonts, out of 8000000 for 9000
+ 5986 strings out of 476330
+ 105351 string characters out of 5787766
+ 1869660 words of memory out of 5000000
+ 26370 multiletter control sequences out of 15000+600000
+ 515708 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,13n,79p,996b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
-Output written on Practica3.pdf (7 pages, 1977950 bytes).
+ 69i,11n,79p,599b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Osciloscopio.pdf (4 pages, 589359 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
