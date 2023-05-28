@@ -4,11 +4,15 @@
 \contentsline {section}{\numberline {3}Introducción.}{2}{}%
 \contentsline {section}{\numberline {4}Marco teórico.}{2}{}%
 \contentsline {section}{\numberline {5}Descripción de materiales.}{2}{}%
-\contentsline {section}{\numberline {6}Desarrollo experimental.}{2}{}%
-\contentsline {section}{\numberline {7}Análisis y resultados.}{2}{}%
-\contentsline {section}{\numberline {8}Discución.}{2}{}%
-\contentsline {section}{\numberline {9}Conclusiones.}{2}{}%
-\contentsline {subsection}{\numberline {9.1}José Emilio Hernández Huerta}{2}{}%
-\contentsline {subsection}{\numberline {9.2}Jesus Martinez Amac}{2}{}%
-\contentsline {subsection}{\numberline {9.3}Nataly Garduño Bejarano}{2}{}%
-\contentsline {subsection}{\numberline {9.4}Perez Vargas Daniela Elizabeth}{2}{}%
+\contentsline {subsection}{\numberline {5.1}Osciloscopio}{2}{}%
+\contentsline {subsection}{\numberline {5.2}Generador de funciones.}{3}{}%
+\contentsline {subsection}{\numberline {5.3}Cable BNC - Caimán.}{3}{}%
+\contentsline {subsection}{\numberline {5.4}Punta de prueba.}{3}{}%
+\contentsline {subsection}{\numberline {5.5}Bateria.}{3}{}%
+\contentsline {section}{\numberline {6}Desarrollo experimental.}{3}{}%
+\contentsline {section}{\numberline {7}Análisis y resultados.}{4}{}%
+\contentsline {section}{\numberline {8}Conclusiones.}{4}{}%
+\contentsline {subsection}{\numberline {8.1}José Emilio Hernández Huerta}{4}{}%
+\contentsline {subsection}{\numberline {8.2}Jesus Martinez Amac}{4}{}%
+\contentsline {subsection}{\numberline {8.3}Nataly Garduño Bejarano}{4}{}%
+\contentsline {subsection}{\numberline {8.4}Perez Vargas Daniela Elizabeth}{4}{}%

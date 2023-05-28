@@ -1,0 +1,199 @@
+\documentclass[10pt]{article}
+\usepackage{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage[left=2.00cm, right=2.00cm, top=2.00cm, bottom=2.00cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage{graphicx,subfig}
+\usepackage{fancyhdr}
+\graphicspath{{Imagenes/}}
+\usepackage{enumerate} 
+\usepackage{multicol}
+\usepackage{tabularx}
+\usepackage{amssymb}
+\usepackage{adjustbox}
+\usepackage{amsmath}
+\usepackage{cancel}
+\begin{document}
+
+
+\pagestyle{fancy}
+\cfoot{}
+
+
+%Cabeceras
+\rhead{Ley de Ohm.}
+\lhead{}
+
+%Portada
+\begin{titlepage}
+	\newgeometry{
+		left=25mm,
+		right=25mm,
+		top=5mm,
+		bottom=30mm,
+		headheight = 0 mm
+	}
+
+	\begin{figure}[t]
+		\subfloat{\includegraphics[width=0.15\textwidth]{Logo_IPN}}
+		\hspace{0.6\textwidth}
+		\subfloat{\includegraphics[width=0.22\textwidth]{LogoEsime}}
+	\end{figure}
+
+	\centering
+	{\bfseries\Huge Instituto Politécnico Nacional. \par}
+	\vspace{1cm}
+	{\scshape\Large Ingeniería en Comunicaciones y Electrónica. \par}
+	\vspace{0.3cm}
+	{\scshape\Large Laboratorio de Electricidad y Magnetismo.  \par}
+	\vspace{1cm}
+	{\scshape\Huge Victoria la Reina Insaciable \par}
+	\vspace{1cm}
+	{\itshape\Large Ley de Ohm. \par}
+	{\Large 2CM13\par}
+	\vfill
+	{\Large Autores: \par}
+	{\Large Daniela Elizabeth Pérez Vargas. \par}
+	{\Large Jesús Martinez Amac. \par}
+	{\Large José Emilio Hernández Huerta. \par}
+	{\Large Nataly Bejarano Garduño.\par}
+	{\Large Uriel Grimaldi Díaz.  \par}
+	\vfill
+	{\Large Junio 2023. \par}
+
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{Resumen.}
+
+
+\begin{multicols}{2}
+
+\section{Objetivo.}
+
+
+
+\section{Introducción.}
+
+
+
+\section{Marco teórico.}
+
+\subsection{El multímetro.}
+
+
+\subsection{Antes de usar un multímetro.}
+
+
+\subsection{Como utilizar el multímetro.}
+
+\subsubsection{Diferencia de potencial eléctrico.}
+
+\subsubsection{Corriente eléctrica.}
+
+
+\subsubsection{Resistencia.}
+
+
+\subsection{Ley de Ohm.}
+
+
+\subsection{Código de colores en los resistores.}
+
+\section{Descripción de materiales.}
+
+
+\section{Desarrollo experimental.}
+
+\subsection{Reconocimiento del multímetro.}
+
+
+\subsection{Mediciones de resistencia(óhmetro).}
+
+
+\subsection{Mediciones de continuidad.}
+
+\subsection{Mediciones de diferencia de potencial eléctrico(vóltmetro).}
+
+\subsection{Mediciones de diferencia de potencial eléctrico de corriente alterna(vóltmetro).}
+
+
+\subsection{Mediciones de intensidad de corriente continua(Amperímetro.)}
+
+\section{Discusión de materiales.}
+
+\subsection{Diferencias entre multímetro digital y analógico}
+
+\subsection{¿Pilas o acumuladores?}
+
+
+\subsection{Protoboard}
+
+\subsection{Variación en el valor nominal de los resistores.}
+
+\section{Análisis y resultados.}
+
+\subsection{Reconocimiento del multímetro.}
+ 
+
+\subsubsection{Multímetro Digital Peaktech 2005.}
+
+
+\subsection{Mediciones de resistencia(óhmetro).}
+
+\begin{center}
+	\begin{adjustbox}{width=245pt}
+		\begin{tabular}{|c|c|c|c|c|}
+			\hline
+			Resistencia & Colores & Tolerancia & Valor nominal (ohms) & Valor medido (ohms) \\
+			\hline
+			1 & Café, verde, rojo, dorado & $\pm$ 5\% & 1.5k & 1.46k \\
+			\hline
+			2 & Rojo, azul, rojo, dorado & $\pm$ 5\% & 2.6k & 2.18k \\
+			\hline
+			3 & Naranja, naranja, naranja, dorado & $\pm$ 5\% & 33k & 32.8k \\
+			\hline
+			4 & Amarillo, violeta, rojo, dorado & $\pm$ 5\% & 4.7k & 4.75k \\
+			\hline
+			5 & Azul, verde, rojo, dorado & $\pm$ 5\% & 6.5k & 6.66k \\
+			\hline
+		\end{tabular}
+	\end{adjustbox}
+\end{center}
+
+\subsection{Mediciones de continuidad.}
+
+
+\subsection{Mediciones de diferencia de potencial eléctrico(vóltmetro).}
+
+
+\subsection{Mediciones de diferencia de potencial eléctrico de corriente alterna(vóltmetro).}
+
+
+\subsection{Mediciones de intensidad de corriente directa(amperímetro).}
+
+
+\section{Conclusiones.}
+
+\subsection*{José Emilio Hernández Huerta.}
+
+\subsection*{Daniela Elizabeth Pérez Vargas.}
+
+\subsection*{Jesús Martinez Amac.}
+
+\subsection*{Nataly Bejarano Garduño.}
+
+
+\subsection*{Uriel Grimaldi Díaz.}
+\begin{thebibliography}{0}
+	\bibitem{citekey}[Bragado, I. M. (2003). Física General.]
+	\bibitem{citekey}[Benchimol, D. (c. 2020). Electrónica práctica. USERSHOP.]
+	\bibitem{citekey}[Peaktech. (2016). Manual de Usuario Peaktech 2005.]
+		
+\end{thebibliography}
+
+\end{multicols}
+
+\end{document}

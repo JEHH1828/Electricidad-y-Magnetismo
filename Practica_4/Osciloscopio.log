@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  25 MAY 2023 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  26 MAY 2023 07:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -220,6 +220,19 @@ File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 ) (Osciloscopio.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
 )
 \openout1 = `Osciloscopio.aux'.
 
@@ -350,9 +363,9 @@ Overfull \hbox (35.26064pt too wide) in paragraph at lines 33--36
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 11.
+(Font)              <5> on input line 7.
 )
 \tf@toc=\write3
 \openout3 = `Osciloscopio.toc'.
@@ -379,8 +392,9 @@ File: Imagenes/Marco Teorico/Imagen4.png Graphic file (type png)
 Package pdftex.def Info: Imagenes/Marco Teorico/Imagen4.png  used on input line 86.
 (pdftex.def)             Requested size: 50.05145pt x 40.40921pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 79--104
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 95.
+ []
 
 <Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png, id=23, 416.30531pt x 243.15843pt>
 File: Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png Graphic file (type png)
@@ -392,24 +406,68 @@ File: Imagenes/Marco Teorico/Imagen6.png Graphic file (type png)
 <use Imagenes/Marco Teorico/Imagen6.png>
 Package pdftex.def Info: Imagenes/Marco Teorico/Imagen6.png  used on input line 108.
 (pdftex.def)             Requested size: 50.05145pt x 27.68489pt.
-[2 <./Imagenes/Marco Teorico/Imagen1.jpg> <./Imagenes/Marco Teorico/Imagen2.png> <./Imagenes/Marco Teorico/Imagen3.png> <./Imagenes/Marco Teorico/Imagen4.png> <./Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png> <./Imagenes/Marco Teorico/Imagen6.png>] [3
+<Imagenes/osciloscopio.png, id=25, 1606.0pt x 1201.48875pt>
+File: Imagenes/osciloscopio.png Graphic file (type png)
+<use Imagenes/osciloscopio.png>
+Package pdftex.def Info: Imagenes/osciloscopio.png  used on input line 121.
+(pdftex.def)             Requested size: 160.6094pt x 120.15591pt.
+[2 <./Imagenes/Marco Teorico/Imagen1.jpg> <./Imagenes/Marco Teorico/Imagen2.png> <./Imagenes/Marco Teorico/Imagen3.png> <./Imagenes/Marco Teorico/Imagen4.png> <./Imagenes/Marco Teorico/Imagen5 pero usa el tuyo .png> <./Imagenes/Marco Teorico/Imagen6.png> <./Imagenes/osciloscopio.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[]\OT1/cmr/m/n/10 Cuenta con 10 po-si-cio-nes en la pe-ri-lla
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 129--130
+\OT1/cmr/m/n/10 ri-lla TI-ME/DIV S son: 2,1,.5,.2,.1, en ms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+\OT1/cmr/m/n/10 son: 50,20,10,5,2,1,.5,.2,.1, y en ns son:
+ []
+
+<Imagenes/generador.png, id=36, 1606.0pt x 1201.48875pt>
+File: Imagenes/generador.png Graphic file (type png)
+<use Imagenes/generador.png>
+Package pdftex.def Info: Imagenes/generador.png  used on input line 136.
+(pdftex.def)             Requested size: 160.6094pt x 120.15591pt.
+<Imagenes/caimanes.png, id=37, 1606.0pt x 1201.48875pt>
+File: Imagenes/caimanes.png Graphic file (type png)
+<use Imagenes/caimanes.png>
+Package pdftex.def Info: Imagenes/caimanes.png  used on input line 148.
+(pdftex.def)             Requested size: 160.6094pt x 120.15591pt.
+<Imagenes/prueba.png, id=38, 1606.0pt x 1201.48875pt>
+File: Imagenes/prueba.png Graphic file (type png)
+<use Imagenes/prueba.png>
+Package pdftex.def Info: Imagenes/prueba.png  used on input line 161.
+(pdftex.def)             Requested size: 160.6094pt x 120.15591pt.
+<Imagenes/bateria.png, id=39, 1201.48875pt x 1606.0pt>
+File: Imagenes/bateria.png Graphic file (type png)
+<use Imagenes/bateria.png>
+Package pdftex.def Info: Imagenes/bateria.png  used on input line 173.
+(pdftex.def)             Requested size: 120.15591pt x 160.6094pt.
+[3 <./Imagenes/generador.png> <./Imagenes/caimanes.png> <./Imagenes/prueba.png> <./Imagenes/bateria.png>] [4] [5
 
 ] (Osciloscopio.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-) ) 
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5986 strings out of 476330
- 105351 string characters out of 5787766
- 1869660 words of memory out of 5000000
- 26370 multiletter control sequences out of 15000+600000
+ 6028 strings out of 476330
+ 106293 string characters out of 5787766
+ 1877660 words of memory out of 5000000
+ 26407 multiletter control sequences out of 15000+600000
  515708 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,79p,599b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Osciloscopio.pdf (4 pages, 589359 bytes).
+ 69i,11n,79p,955b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Osciloscopio.pdf (6 pages, 10419890 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
