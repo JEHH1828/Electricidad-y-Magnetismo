@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1685588109 "d:/WorkSpace/Electricidad-y-Magnetismo/Practica_5/Ley de Ohm.tex" "Ley de Ohm.pdf" "Ley de Ohm" 1685588115 0
+["pdflatex"] 1685600154 "d:/WorkSpace/Electricidad-y-Magnetismo/Practica_5/Ley de Ohm.tex" "Ley de Ohm.pdf" "Ley de Ohm" 1685600162 0
   "C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1685296948 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/jehh1/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1685591816 11548 558e92836ca374c7441e61b2d46f9f62 ""
   "C:/Users/jehh1/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1682124007 23178883 0bf94dfa45c24a869fe3950992c5fb53 ""
+  "C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -187,13 +189,19 @@
   "C:/Users/jehh1/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/jehh1/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/jehh1/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
+  "Imagenes//Amperimetro.png" 1685592401 1022950 aba922b53a720bd3928dbf15697b8aa6 ""
+  "Imagenes//Cables.png" 1685592401 1445884 78fcd2c314ee2368f57bb10c20408abe ""
+  "Imagenes//Decada.png" 1685592402 1022053 07a7b10809f775c3004ca8b7105bcc61 ""
+  "Imagenes//Fuente.png" 1685592402 1317817 85d58c529a3a7b63e250a76a8d50a7fb ""
   "Imagenes//LogoEsime.png" 1684414124 61434 569bb941474fbd27a28991e4a156e3be ""
   "Imagenes//Logo_IPN.png" 1684414124 273200 c82eec91e358905528ff9a5eb5893beb ""
+  "Imagenes//Multimetro.png" 1685592402 1373743 f45f04ecd84467296f142231e0784ec6 ""
+  "Imagenes//Selector.png" 1685592402 920420 8a8dc30b932f949861fea6ebf64901dd ""
   "Imagenes//lol.jpeg" 1685586370 31725 dc7a26dfc151723988ff262b60e6275e ""
   "Imagenes//reina.jpeg" 1685586374 50727 cd4f0866f92acba9bbe4d425dad5f9b1 ""
-  "Ley de Ohm.aux" 1685588114 1109 9efd0b4e59accde594d17d6aa58c82c6 "pdflatex"
-  "Ley de Ohm.toc" 1685588114 538 fd29baa0e69781c5f46188a86d36ca51 "pdflatex"
-  "d:/WorkSpace/Electricidad-y-Magnetismo/Practica_5/Ley de Ohm.tex" 1685588107 8681 bc04087f6326f22d30a6e0ac56e72278 ""
+  "Ley de Ohm.aux" 1685600161 1776 390b27a367d772c0f77e7b58c370406c "pdflatex"
+  "Ley de Ohm.toc" 1685600161 959 ef99d50145bd3bb592782c56aaab6439 "pdflatex"
+  "d:/WorkSpace/Electricidad-y-Magnetismo/Practica_5/Ley de Ohm.tex" 1685600152 19676 f0996f0efcdeedfa000b077c186702b2 ""
   (generated)
   "Ley de Ohm.aux"
   "Ley de Ohm.log"

@@ -4,6 +4,12 @@
 \contentsline {section}{\numberline {3}Introducción.}{2}{}%
 \contentsline {section}{\numberline {4}Marco teórico.}{2}{}%
 \contentsline {section}{\numberline {5}Descripción de materiales.}{2}{}%
-\contentsline {section}{\numberline {6}Desarrollo experimental.}{2}{}%
-\contentsline {section}{\numberline {7}Analisis de resultados}{3}{}%
-\contentsline {section}{\numberline {8}Conclusiones.}{3}{}%
+\contentsline {subsection}{\numberline {5.1}Multimetro digital.}{2}{}%
+\contentsline {subsection}{\numberline {5.2}Selector bipolar.}{3}{}%
+\contentsline {subsection}{\numberline {5.3}Fuente universal.}{3}{}%
+\contentsline {subsection}{\numberline {5.4}Amperimetro.}{3}{}%
+\contentsline {subsection}{\numberline {5.5}Cables de conexión.}{4}{}%
+\contentsline {subsection}{\numberline {5.6}Década de resistencias.}{4}{}%
+\contentsline {section}{\numberline {6}Desarrollo experimental.}{4}{}%
+\contentsline {section}{\numberline {7}Analisis de resultados}{5}{}%
+\contentsline {section}{\numberline {8}Conclusiones.}{6}{}%

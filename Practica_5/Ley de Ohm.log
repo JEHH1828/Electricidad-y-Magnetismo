@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  31 MAY 2023 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.4.21)  1 JUN 2023 00:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -602,20 +602,20 @@ LaTeX Warning: Label `citekey' multiply defined.
 )
 \openout1 = `"Ley de Ohm.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -651,8 +651,8 @@ LaTeX Font Info:    ... okay on input line 17.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
 (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count330
@@ -678,7 +678,7 @@ Package caption Info: End \AtBeginDocument code.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 17.
+ on input line 18.
 
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
@@ -715,12 +715,12 @@ Package pgfplots Warning: running in backwards compatibility mode (unsuitable ti
 <Imagenes//Logo_IPN.png, id=4, 587.94656pt x 836.3747pt>
 File: Imagenes//Logo_IPN.png Graphic file (type png)
 <use Imagenes//Logo_IPN.png>
-Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 39.
+Package pdftex.def Info: Imagenes//Logo_IPN.png  used on input line 40.
 (pdftex.def)             Requested size: 70.8018pt x 100.71797pt.
 <Imagenes//LogoEsime.png, id=6, 348.55219pt x 310.91156pt>
 File: Imagenes//LogoEsime.png Graphic file (type png)
 <use Imagenes//LogoEsime.png>
-Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 41.
+Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 42.
 (pdftex.def)             Requested size: 103.84744pt x 92.63371pt.
 [1
 
@@ -728,30 +728,75 @@ Package pdftex.def Info: Imagenes//LogoEsime.png  used on input line 41.
 {C:/Users/jehh1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Imagenes//Logo_IPN.png> <./Imagenes//LogoEsime.png>] (Ley de Ohm.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+ (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `"Ley de Ohm.toc"'.
 
  [1]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
- (C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 <Imagenes//lol.jpeg, id=22, 1084.05pt x 1052.93375pt>
 File: Imagenes//lol.jpeg Graphic file (type jpg)
 <use Imagenes//lol.jpeg>
-Package pdftex.def Info: Imagenes//lol.jpeg  used on input line 91.
+Package pdftex.def Info: Imagenes//lol.jpeg  used on input line 92.
 (pdftex.def)             Requested size: 85.08136pt x 82.62978pt.
 <Imagenes//reina.jpeg, id=23, 529.98pt x 527.9725pt>
 File: Imagenes//reina.jpeg Graphic file (type jpg)
 <use Imagenes//reina.jpeg>
-Package pdftex.def Info: Imagenes//reina.jpeg  used on input line 93.
+Package pdftex.def Info: Imagenes//reina.jpeg  used on input line 94.
 (pdftex.def)             Requested size: 85.08136pt x 84.7593pt.
- [2 <./Imagenes//lol.jpeg> <./Imagenes//reina.jpeg>] [3] (Ley de Ohm.aux
+<Imagenes//Multimetro.png, id=24, 1201.48875pt x 1606.0pt>
+File: Imagenes//Multimetro.png Graphic file (type png)
+<use Imagenes//Multimetro.png>
+Package pdftex.def Info: Imagenes//Multimetro.png  used on input line 105.
+(pdftex.def)             Requested size: 120.15591pt x 160.6094pt.
+ [2 <./Imagenes//lol.jpeg> <./Imagenes//reina.jpeg> <./Imagenes//Multimetro.png>]
+<Imagenes//Selector.png, id=29, 1201.48875pt x 1606.0pt>
+File: Imagenes//Selector.png Graphic file (type png)
+<use Imagenes//Selector.png>
+Package pdftex.def Info: Imagenes//Selector.png  used on input line 122.
+(pdftex.def)             Requested size: 120.15591pt x 160.6094pt.
+<Imagenes//Fuente.png, id=30, 1606.0pt x 1201.48875pt>
+File: Imagenes//Fuente.png Graphic file (type png)
+<use Imagenes//Fuente.png>
+Package pdftex.def Info: Imagenes//Fuente.png  used on input line 137.
+(pdftex.def)             Requested size: 160.6094pt x 120.15591pt.
+<Imagenes//Amperimetro.png, id=31, 901.11656pt x 1204.5pt>
+File: Imagenes//Amperimetro.png Graphic file (type png)
+<use Imagenes//Amperimetro.png>
+Package pdftex.def Info: Imagenes//Amperimetro.png  used on input line 154.
+(pdftex.def)             Requested size: 90.11693pt x 120.45705pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+[]\OT1/cmr/m/n/10 El ra-go de po-si-cio-nes en -A es de:
+ []
+
+[3 <./Imagenes//Selector.png> <./Imagenes//Fuente.png> <./Imagenes//Amperimetro.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+[]\OT1/cmr/m/n/10 El ra-go de po-si-cio-nes en  A es de:
+ []
+
+<Imagenes//Cables.png, id=35, 1606.0pt x 1201.48875pt>
+File: Imagenes//Cables.png Graphic file (type png)
+<use Imagenes//Cables.png>
+Package pdftex.def Info: Imagenes//Cables.png  used on input line 173.
+(pdftex.def)             Requested size: 160.6094pt x 120.15591pt.
+<Imagenes//Decada.png, id=36, 1201.48875pt x 1606.0pt>
+File: Imagenes//Decada.png Graphic file (type png)
+<use Imagenes//Decada.png>
+Package pdftex.def Info: Imagenes//Decada.png  used on input line 187.
+(pdftex.def)             Requested size: 120.15591pt x 160.6094pt.
+[4 <./Imagenes//Cables.png> <./Imagenes//Decada.png>]
+Overfull \hbox (1.44656pt too wide) in paragraph at lines 313--315
+[][] 
+ []
+
+[5] [6] (Ley de Ohm.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 )
@@ -760,17 +805,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 28928 strings out of 476330
- 711001 string characters out of 5787766
- 1870660 words of memory out of 5000000
- 48890 multiletter control sequences out of 15000+600000
- 517407 words of font info for 51 fonts, out of 8000000 for 9000
+ 29540 strings out of 476330
+ 727378 string characters out of 5787766
+ 1889660 words of memory out of 5000000
+ 49501 multiletter control sequences out of 15000+600000
+ 517742 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,103p,784b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Ley de Ohm.pdf" (4 pages, 447400 bytes).
+ 99i,11n,103p,869b,2006s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\jehh1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jehh1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "Ley de Ohm.pdf" (7 pages, 11428104 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

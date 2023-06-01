@@ -823,7 +823,6 @@ INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tf
 INPUT .\Ley de Ohm.toc
 INPUT Ley de Ohm.toc
 INPUT Ley de Ohm.toc
-OUTPUT Ley de Ohm.toc
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
@@ -840,6 +839,7 @@ INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+OUTPUT Ley de Ohm.toc
 INPUT .\Imagenes\\lol.jpeg
 INPUT Imagenes\\lol.jpeg
 INPUT .\Imagenes\\lol.jpeg
@@ -854,7 +854,46 @@ INPUT .\Imagenes\\reina.jpeg
 INPUT .\Imagenes\\reina.jpeg
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\Imagenes\\Multimetro.png
+INPUT Imagenes\\Multimetro.png
+INPUT .\Imagenes\\Multimetro.png
+INPUT .\Imagenes\\Multimetro.png
+INPUT .\Imagenes\\Multimetro.png
+INPUT .\Imagenes\\Multimetro.png
+INPUT .\Imagenes\\Selector.png
+INPUT Imagenes\\Selector.png
+INPUT .\Imagenes\\Selector.png
+INPUT .\Imagenes\\Selector.png
+INPUT .\Imagenes\\Selector.png
+INPUT .\Imagenes\\Selector.png
+INPUT .\Imagenes\\Fuente.png
+INPUT Imagenes\\Fuente.png
+INPUT .\Imagenes\\Fuente.png
+INPUT .\Imagenes\\Fuente.png
+INPUT .\Imagenes\\Fuente.png
+INPUT .\Imagenes\\Fuente.png
+INPUT .\Imagenes\\Amperimetro.png
+INPUT Imagenes\\Amperimetro.png
+INPUT .\Imagenes\\Amperimetro.png
+INPUT .\Imagenes\\Amperimetro.png
+INPUT .\Imagenes\\Amperimetro.png
+INPUT .\Imagenes\\Amperimetro.png
+INPUT .\Imagenes\\Cables.png
+INPUT Imagenes\\Cables.png
+INPUT .\Imagenes\\Cables.png
+INPUT .\Imagenes\\Cables.png
+INPUT .\Imagenes\\Cables.png
+INPUT .\Imagenes\\Cables.png
+INPUT .\Imagenes\\Decada.png
+INPUT Imagenes\\Decada.png
+INPUT .\Imagenes\\Decada.png
+INPUT .\Imagenes\\Decada.png
+INPUT .\Imagenes\\Decada.png
+INPUT .\Imagenes\\Decada.png
+INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT Ley de Ohm.aux
+INPUT C:\Users\jehh1\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\jehh1\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\jehh1\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

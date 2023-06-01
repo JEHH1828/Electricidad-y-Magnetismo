@@ -3,25 +3,6 @@
 \contentsline {section}{\numberline {2}Objetivo.}{2}{}%
 \contentsline {section}{\numberline {3}Introducción.}{2}{}%
 \contentsline {section}{\numberline {4}Marco teórico.}{2}{}%
-<<<<<<< HEAD
-\contentsline {section}{\numberline {5}Descripción de materiales.}{2}{}%
-\contentsline {section}{\numberline {6}Desarrollo experimental.}{3}{}%
-\contentsline {subsection}{\numberline {6.1}Reconocimiento del multímetro.}{3}{}%
-\contentsline {subsection}{\numberline {6.2}Mediciones de resistencia(óhmetro).}{4}{}%
-\contentsline {subsection}{\numberline {6.3}Mediciones de continuidad.}{4}{}%
-\contentsline {subsection}{\numberline {6.4}Mediciones de voltaje(vóltmetro).}{4}{}%
-\contentsline {subsection}{\numberline {6.5}Mediciones de voltaje de corriente alterna(vóltmetro).}{4}{}%
-\contentsline {subsection}{\numberline {6.6}Mediciones de intensidad de corriente continua(Amperímetro.)}{4}{}%
-\contentsline {section}{\numberline {7}Discusión de materiales .}{4}{}%
-\contentsline {section}{\numberline {8}Análisis y resultados.}{4}{}%
-\contentsline {subsection}{\numberline {8.1}Reconocimiento del multímetro.}{4}{}%
-\contentsline {subsection}{\numberline {8.2}Mediciones de resistencia(óhmetro).}{4}{}%
-\contentsline {subsection}{\numberline {8.3}Mediciones de continuidad.}{4}{}%
-\contentsline {subsection}{\numberline {8.4}Mediciones de voltaje(vóltmetro).}{4}{}%
-\contentsline {subsection}{\numberline {8.5}Mediciones de voltaje de corriente alterna(vóltmetro).}{5}{}%
-\contentsline {subsection}{\numberline {8.6}Mediciones de intensidad de corriente continua(Amperímetro.)}{5}{}%
-\contentsline {section}{\numberline {9}Conclusiones.}{5}{}%
-=======
 \contentsline {subsection}{\numberline {4.1}El multímetro.}{2}{}%
 \contentsline {subsection}{\numberline {4.2}Antes de usar un multímetro.}{2}{}%
 \contentsline {subsection}{\numberline {4.3}Como utilizar el multímetro.}{3}{}%
@@ -52,4 +33,3 @@
 \contentsline {subsection}{\numberline {8.5}Mediciones de diferencia de potencial eléctrico de corriente alterna(vóltmetro).}{11}{}%
 \contentsline {subsection}{\numberline {8.6}Mediciones de intensidad de corriente directa(amperímetro).}{12}{}%
 \contentsline {section}{\numberline {9}Conclusiones.}{12}{}%
->>>>>>> 05e24634aa0090a7e477c33ffea4fc7ff62d4b5e
